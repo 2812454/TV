@@ -434,3 +434,54 @@ https://bit.ly/41Pufgt?profile=inspirationFreeTv.m3u8
 https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="NOVOT" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/fatima.png",Santuário de Fátimaᴴᴰ
 https://streamer-a01.videos.sapo.pt/live/santuario/chunklist.m3u8?wowzasessionid=inspiration
+
+
+
+
+
+#EXTINF:-1 group-title="FRANÇA" tvg-id="tf1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/77/TF1_%282013%29.svg",TF1
+http://212.102.60.80/TF1/index.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="tf1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/77/TF1_%282013%29.svg",TF1+
+http://45.153.35.210:8000/play/FR_tf1_HD/index.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="France_2_HD.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/France_2_2018.svg",FRANCE 2 HD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$France_2_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(5242880)
+#EXTINF:-1 group-title="FRANÇA" tvg-id="France_3_HD.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/France_3_2018.svg",FRANCE 3 HD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$France_3_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(5242880)
+#EXTINF:-1 group-title="FRANÇA" tvg-id="France_5_HD.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/France_5_2018.svg",FRANCE 5 HD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$France_5_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(5242880)
+#EXTINF:-1 group-title="FRANÇA" tvg-id="M6.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/07b269a2ec8b80615d5461358fb74ef0fb794370/Logos/m6.svg",M6
+https://bit.ly/42Vqbw6?profile=inspirationlivetv.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a9/6ter_2012.png",6TER
+http://144.217.72.24:80/6ter/index.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Logo_TFX_2018.jpg/800px-Logo_TFX_2018.jpg",TFX
+http://62.129.183.89:9981/stream/channelid/57664586
+#EXTINF:-1 group-title="FRANÇA" tvg-id="NRJ12.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/NRJ_12_logo_2015.svg",NRJ12
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/fd/Logo_LCP-AN_%282019%29.svg",LCP
+http://62.129.183.89:9981/stream/channelid/1233520955
+#EXTINF:-1 group-title="FRANÇA" tvg-id="ParisPremiere.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Paris_Premi%C3%A8re_2011.svg/1200px-Paris_Premi%C3%A8re_2011.svg.png",Paris Premiere
+https://github.com/inspirationlinks/m3u/raw/live/Streams/PaPremiere.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="ParisPremiere.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Paris_Premi%C3%A8re_2011.svg/1200px-Paris_Premi%C3%A8re_2011.svg.png",Paris Premiere
+https://raw.githubusercontent.com/Sphinxroot/HSL/main/PP.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="Teva.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4d/Logo_T%C3%A9va_HD.svg",Téva
+https://raw.githubusercontent.com/Sphinxroot/HSL/main/teva.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/RTLlPlay.webp",RTL Play
+https://github.com/inspirationlinks/m3u/raw/live/Streams/RTLPlay.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/RTL-TVI_Logo_2023.svg/1024px-RTL-TVI_Logo_2023.svg.png",RTL TVi
+https://github.com/inspirationlinks/m3u/raw/live/Streams/RTLTvi.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/RTLClub.png",RTL Club
+https://github.com/inspirationlinks/m3u/raw/live/Streams/RTLClub.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Plug_RTL_logo.svg/1200px-Plug_RTL_logo.svg.png",RTL Plug
+https://github.com/inspirationlinks/m3u/raw/live/Streams/RTLPlag.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9d/Bel-rtl-2023.svg",RTL bel
+https://github.com/inspirationlinks/m3u/raw/live/Streams/RTLbel.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9d/Bel-rtl-2023.svg",RTL bel
+https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="MuseumTVFrench.fr"  tvg-logo="https://www.museumtv.art/wp-content/uploads/2021/09/cropped-apple-touch-icon-180x180.png",Museum TV
+https://live2.creacast.com/museum-france/smil:museum-france.smil/master.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/InfoSport.png",InfoSport
+http://212.102.60.80/Infosport/index.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tvmonaco.jpg",TV Monaco
+https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/2025/media.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/monacoinfo.jpg",Monaco Info
+https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
