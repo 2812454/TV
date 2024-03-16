@@ -439,9 +439,9 @@ https://streamer-a01.videos.sapo.pt/live/santuario/chunklist.m3u8?wowzasessionid
 
 
 
-#EXTINF:-1 group-title="FRANÇA" tvg-id="tf1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/77/TF1_%282013%29.svg",TF1
+#EXTINF:-1 group-title="FRANÇA" tvg-id="tf1.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/TF1_2013.svg",TF1
 http://212.102.60.80/TF1/index.m3u8
-#EXTINF:-1 group-title="FRANÇA" tvg-id="tf1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/77/TF1_%282013%29.svg",TF1+
+#EXTINF:-1 group-title="FRANÇA" tvg-id="tf1.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Logo_TF1%2B.svg",TF1+
 http://45.153.35.210:8000/play/FR_tf1_HD/index.m3u8
 #EXTINF:-1 group-title="FRANÇA" tvg-id="France_2_HD.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/France_2_2018.svg",FRANCE 2 HD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$France_2_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(5242880)
