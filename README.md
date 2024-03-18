@@ -23,7 +23,7 @@ Usage
 -----
 
 ```bash
-$ ./tv.sh 
+$ ./TV-PT.SH 
 1) RTP 1           7) TVI24              13) SIC Internacional
 2) RTP 2           8) RTP Memoria        14) ARTV
 3) SIC             9) RTP Madeira        15) Porto Canal
@@ -34,7 +34,7 @@ Which TV channel do you want to watch?
 ```
 
 ```bash
-$ ./radio.sh
+$ ./RADIO-PT.SH
 1) Antena1       6) Kiss FM     11) Orbital     16) RUC
 2) Antena2       7) M80         12) Oxigénio    17) Smooth
 3) Antena3       8) Mega Hits   13) Radar       18) TSF
