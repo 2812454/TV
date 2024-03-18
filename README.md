@@ -72,11 +72,11 @@ $ iptables -t nat -A OUTPUT -p tcp --dport 1935 -j REDIRECT
 ```
 
 ```bash
-# start rtmpsrv
+# iniciar rtmpsrv
 $ rtmpsrv
 ```
 
-Agora abra uma página da web contendo mídia transmitida por RTMP.
+Abra uma página da web contendo mídia transmitida por RTMP.
 As solicitações RTMP serão capturadas por `iptables` e registradas por `rtmpsrv`.
 
 ```bash
