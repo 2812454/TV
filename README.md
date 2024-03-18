@@ -42,7 +42,7 @@ Qual canal de RÁDIO quer ver?
 ```
 
 
-INSTALAR DEPÊNDENCIAS
+INSTALAR DEPÊNDENCIAS(#installing-dependencies)
 -----
 
 ```bash
