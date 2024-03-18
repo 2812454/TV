@@ -11,6 +11,7 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SI
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TVI_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(5242880)
 #EXTINF:-1 group-title="✨MEO ᶠʰᵈ✨" tvg-id="TVIFiccao.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tviFic%C3%A7%C3%A3o.png",TVI FICÇÃO ᶠʰᵈ
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TVIFI_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(5242880)
+
 #EXTINF:-1 group-title="✨MEO ᶠʰᵈ✨" tvg-id="CNNPORTUGAL.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg",CNN ᶠʰᵈ
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TVI24_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(5242880)
 #EXTINF:-1 group-title="✨MEO ᶠʰᵈ✨" tvg-id="cmtv.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/CMTV.svg",CM TV ᶠʰᵈ
@@ -373,20 +374,21 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SI
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TVI_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(3000000)
 #EXTINF:-1 group-title="✨MEOᴴᴰ✨" tvg-id="TVIFiccao.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tviFic%C3%A7%C3%A3o.png",TVI FICÇÃOᴴᴰ
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TVIFI_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(3000000)
+
 #EXTINF:-1 group-title="✨MEOᴴᴰ✨" tvg-id="CNNPORTUGAL.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg",CNNᴴᴰ
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TVI24_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(3000000)
-#EXTINF:-1 group-title="✨MEOᴴᴰ✨" tvg-id="cmtv.pt" tvg-logo="",CM TVᴴᴰ
+#EXTINF:-1 group-title="✨MEOᴴᴰ✨" tvg-id="cmtv.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/CMTV.svg",CM TVᴴᴰ
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$CMTVHD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(3000000)
-#EXTINF:-1 group-title="✨MEOᴴᴰ✨" tvg-id="sicnoticias.pt" tvg-logo="",SIC NOTICIASᴴᴰ
+#EXTINF:-1 group-title="✨MEOᴴᴰ✨" tvg-id="sicnoticias.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/SIC_Not%C3%ADcias_2023.svg",SIC NOTICIASᴴᴰ
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SIC_Noticias_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(3000000)
-#EXTINF:-1 group-title="✨MEOᴴᴰ✨" tvg-id="RTPAcores.pt" tvg-logo="",RTP AÇORESᴴᴰ
+#EXTINF:-1 group-title="✨MEOᴴᴰ✨" tvg-id="RTPAcores.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/RTP_A%C3%A7ores_2016.svg",RTP AÇORESᴴᴰ
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$RTP_AC_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(3000000)
-#EXTINF:-1 group-title="✨MEOᴴᴰ✨" tvg-id="RTP_Madeira_HD.pt" tvg-logo="",RTP MADEIRAᴴᴰ
+#EXTINF:-1 group-title="✨MEOᴴᴰ✨" tvg-id="RTP_Madeira_HD.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/RTP_Madeira_2017.svg",RTP MADEIRAᴴᴰ
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$RTP_Madeira_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(3000000)
 
-#EXTINF:-1 group-title="✨MEOᴴᴰ✨" tvg-id="sicradical.pt" tvg-logo="",SIC RADICALᴴᴰ
+#EXTINF:-1 group-title="✨MEOᴴᴰ✨" tvg-id="sicradical.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/SIC_Radical_2011.svg",SIC RADICALᴴᴰ
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SIC_Radical_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(3000000)
-#EXTINF:-1 group-title="✨MEOᴴᴰ✨" tvg-id="siccaras.pt" tvg-logo="",SIC CARASᴴᴰ
+#EXTINF:-1 group-title="✨MEOᴴᴰ✨" tvg-id="siccaras.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/SIC_Caras.svg",SIC CARASᴴᴰ
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SIC_Caras_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(3000000)
 
 #EXTINF:-1 group-title="✨MEOᴴᴰ✨" tvg-id="TVIReality.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Big_Brother_Desafio_Final_2022.png/revision/latest?cb=20220515123917",BIG BROTHERᴴᴰ
@@ -394,7 +396,7 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Bb
 
 #EXTINF:-1 group-title="✨MEOᴴᴰ✨" tvg-id="ABolaTV.pt" tvg-logo="https://i.imgur.com/IP1NWeA.png",A BOLAᴴᴰ
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$ABOLA_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(3000000)
-#EXTINF:-1 group-title="✨MEOᴴᴰ✨" tvg-id="canal11.pt" tvg-logo="",CANAL 11ᴴᴰ
+#EXTINF:-1 group-title="✨MEOᴴᴰ✨" tvg-id="canal11.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Canal11.svg",CANAL 11ᴴᴰ
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$C11_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(3000000)
 
 
