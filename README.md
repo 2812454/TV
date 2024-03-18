@@ -2,24 +2,19 @@
 TV-PT
 ============
 
-Live Portuguese TV and radio.  
+CANAIS-> PORTUGAL
+RÁDIO -> PORTUGAL
 
-**Disclaimer:**  
-All streams are official.
-
-Please add a [new issue](https://github.com/marmelo/streaming-pt/issues) to report broken links or suggest new streams.
-
-
-Requirements
+REQUERIMENTOS
 -----
 
 - [Bash](https://www.gnu.org/software/bash/)
 - [mpv](https://mpv.io/)
 
-If you need assistance please check [installing dependencies](#installing-dependencies).
+Se precisar de ajuda, verifique [installing dependencies](#installing-dependencies).
 
 
-Usage
+TV
 -----
 
 ```bash
@@ -33,6 +28,9 @@ $ ./TV-PT.SH
 Which TV channel do you want to watch?
 ```
 
+RÁDIO
+-----
+
 ```bash
 $ ./RADIO-PT.SH
 1) Antena1       6) Kiss FM     11) Orbital     16) RUC
@@ -44,7 +42,7 @@ Which radio do you want to listen?
 ```
 
 
-Installing dependencies
+INSTALAR DEPÊNDENCIAS
 -----
 
 ```bash
@@ -63,13 +61,13 @@ $ brew install mpv
 $ port install mpv
 ```
 
-How to catch RTMP streams
+Como capturar fluxos RTMP
 -----
 
-For this you will need `iptables` and `rtmpdump`.
+Para isso precisará de `iptables` e `rtmpdump`.
 
 ```bash
-# redirect outgoing RTMP traffic to localhost
+#redireciona o tráfego RTMP de saída para localhost
 $ iptables -t nat -A OUTPUT -p tcp --dport 1935 -j REDIRECT
 ```
 
@@ -78,10 +76,10 @@ $ iptables -t nat -A OUTPUT -p tcp --dport 1935 -j REDIRECT
 $ rtmpsrv
 ```
 
-Now open a web page containing media streamed over RTMP.  
-RTMP requests will be caught by `iptables` and logged by `rtmpsrv`.
+Agora abra uma página da web contendo mídia transmitida por RTMP.
+As solicitações RTMP serão capturadas por `iptables` e registradas por `rtmpsrv`.
 
 ```bash
-# remove redirection of outgoing RTMP traffic
+#remove o redirecionamento do tráfego RTMP de saída
 $ iptables -t nat -D OUTPUT -p tcp --dport 1935 -j REDIRECT
 ```
