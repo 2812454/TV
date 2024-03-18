@@ -3,10 +3,10 @@ TV-PT
 ============
 
 - CANAIS
- .-> PORTUGAL
+> PORTUGAL
   
 - RÁDIO
- .-> PORTUGAL
+> PORTUGAL
 
 REQUERIMENTOS
 -----
