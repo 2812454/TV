@@ -2,8 +2,11 @@
 TV-PT
 ============
 
-- CANAIS-> PORTUGAL
-- RÁDIO -> PORTUGAL
+- CANAIS
+- -> PORTUGAL
+- 
+- RÁDIO
+- -> PORTUGAL
 
 REQUERIMENTOS
 -----
