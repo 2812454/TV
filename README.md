@@ -11,7 +11,7 @@ REQUERIMENTOS
 - [Bash](https://www.gnu.org/software/bash/)
 - [mpv](https://mpv.io/)
 
-Se precisar de ajuda, verifique [INSTALAR DEPÊNDENCIAS](#INSTALAR DEPÊNDENCIAS).
+Se precisar de ajuda, verifique [INSTALAR DEPÊNDENCIAS](#INSTALAR-DEPÊNDENCIAS).
 
 
 TV
