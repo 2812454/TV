@@ -25,7 +25,7 @@ $ ./TV-PT.SH
 4) TVI            10) RTP Acores         16) Euronews
 5) RTP 3          11) RTP Africa         17) Kuriakos TV
 6) SIC Noticias   12) RTP Internacional
-Which TV channel do you want to watch?
+Qual canal de TV quer ver?
 ```
 
 RÁDIO
@@ -38,7 +38,7 @@ $ ./RADIO-PT.SH
 3) Antena3       8) Mega Hits   13) Radar       18) TSF
 4) Cidade FM     9) MEO Music   14) Renascenca  19) Vodafone
 5) Comercial    10) Nova Era    15) RFM         20) Zero
-Which radio do you want to listen? 
+Qual canal de RÁDIO quer ver?
 ```
 
 
