@@ -1928,6 +1928,10 @@ https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
 
 
 
+#EXTINF:-1 group-title="TV ABERTA - ✨BRASIL✨"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Globo2021_var_blue.svg",Globoᴴᴰ
+http://cdn-1.nxplay.com.br/TV_TEM_TK/index.m3u8
+#EXTINF:-1 group-title="TV ABERTA - ✨BRASIL✨"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Globo2021_var_blue.svg",Globo SPᴴᴰ
+https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨BRASIL✨"  tvg-logo="https://conteudo.imguol.com.br/c/play/logo_canaluol.svg",Canal UOLᴴᴰ
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-07et6wc1z29gv/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨BRASIL✨" tvg-id="6014761dfb91870008ea6463"tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png",Turboᴴᴰ
