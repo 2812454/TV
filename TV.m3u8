@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-meo-pt.xml.gz"
+#EXTM3U x-tvg-url="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-meo-pt.xml.gz" url-tvg="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-nos-pt.xml.gz" url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/5dd66c9a1ad2ef67514afb4ae778f0d0cbc4b85a/PlutoTV/br.xml" url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml" url-tvg="https://www.bevy.be/bevyfiles/brazil.xml" url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz" url-tvg="https://www.bevy.be/bevyfiles/brazil.xml" url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz" url-tvg="https://github.com/serviciovodflex/nxt-guide/raw/main/epg.xml" refresh="3600" m3uautoload="1" refresh="24"
 #EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="DEST" tvg-logo="https://www.meo.pt/PublishingImages/paginas/cartoon-network/cartoon-network-premium-adira-tv-meo-secundario.webp",MEO FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$MEO_Destaques_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
 #EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="RTP1.pt" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP1_positivo_horiz_RGB.png",RTP 1 FHD
@@ -1651,9 +1651,9 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/inspiration.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SICNoticias.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/SIC_Not%C3%ADcias_2023.svg",SIC Noticiasᴴᴰ
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SICReplay.png",SIC Replayᴴᴰ
-https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a32a3b6cc344dbd6c/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SICAltaDefinicao.png",SIC Alta Definiçãoᴴᴰ
-https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a863b1c5e7e32550b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="sicnovelashd.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/SICNovelas.png",SIC Novelasᴴᴰ
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9ae705b449477523ec/channels/d9070446-8448-455e-8075-773b1ba12562/f083c6ea-33af-458e-82c5-f27f6b42f9ec/media_.m3u8
 
@@ -1688,6 +1688,9 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Fr
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$France_5_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
 #EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨" tvg-id="M6.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/07b269a2ec8b80615d5461358fb74ef0fb794370/Logos/m6.svg",M6 HD
 https://bit.ly/42Vqbw6?profile=inspirationlivetv.m3u8
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$France_5_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+#EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨" tvg-id="M6.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/07b269a2ec8b80615d5461358fb74ef0fb794370/Logos/m6.svg",M6 HD
+https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨"  tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a9/6ter_2012.png",6TER HD
 http://144.217.72.24:80/6ter/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Logo_TFX_2018.jpg/800px-Logo_TFX_2018.jpg",TFX HD
