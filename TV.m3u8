@@ -2640,10 +2640,10 @@ https://v3.sportsonline.sx/channels/pt/btv.php
 
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="STAR.pt" group-title="Portugal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/Star_Channel_2023.svg",Star Channelᴴᴰ 🇵🇹
 http://50.7.137.106:8080/FOX/index.m3u8?token=test
-#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="STAR.pt" group-title="Portugal" tvg-logo="",AXNᴴᴰ 🇵🇹
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="STAR.pt" group-title="Portugal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg",AXNᴴᴰ 🇵🇹
 http://50.7.137.106:8080/AXN/index.m3u8?token=test
 
-#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨"  tvg-logo="https://logos.fandom.com/wiki/File:RTL_L%C3%ABtzebuerg_(2023).svg",RTL FHD
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/RTL_L%C3%ABtzebuerg_%282023%29.svg",RTL FHD
 https://stream.rtl.lu/data/live/tele/channel1/1080p.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="STAR.pt" group-title="Portugal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Kurikos.png",KURIAKOSᴴᴰ 🇵🇹
