@@ -2592,7 +2592,7 @@ https://sportsonline.si/channels/pt/sporttv5.php
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SPT1HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Sporttv-1.svg",SPORTV 1 FHD
 https://jrbsa4zckn68y3pmxh7teg.cdnkidney.net:8443/hls/xt4p2tyjgzsp4t.m3u8?s=fmA_Ayo1mmhCFeocxmIzIw&e=1714107082
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SPT2HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Sporttv-2.svg",SPORTV 2 FHD
-https://v2.sportsonline.si/channels/pt/sporttv2.php
+https://jrbsa4zckn68y3pmxh7teg.cdnkidney.net:8443/hls/dm4f0c0bxcxxsau.m3u8?s=zRnokWXhnWfCslfxL3k9Bg&e=1714107487
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SPT3HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Sporttv-3.svg",SPORTV 3 FHD
 https://v2.sportsonline.si/channels/pt/sporttv3.php
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SPT4HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/Sporttv-4.svg",SPORTV 4 FHD
