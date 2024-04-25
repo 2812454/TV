@@ -2572,6 +2572,72 @@ https://bit.ly/3gejKxf?profile=inspirationFreeTv.m3u8
 https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 #EXTINF:-1 format="auto" tvg-id="TVIAfrica.pt"tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tvi%C3%81frica.png",TVI África ѕᴅ
 
+
+
+
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SPT1HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Sporttv-1.svg",SPORTV 1 FHD
+https://sportsonline.si/channels/pt/sporttv1.php
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SPT2HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Sporttv-2.svg",SPORTV 2 FHD
+https://sportsonline.si/channels/pt/sporttv2.php
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SPT3HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Sporttv-3.svg",SPORTV 3 FHD
+https://sportsonline.si/channels/pt/sporttv3.php
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SPT4HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/Sporttv-4.svg",SPORTV 4 FHD
+https://sportsonline.si/channels/pt/sporttv4.php
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SPT5HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Sporttv-5.svg",SPORTV 5 FHD
+https://sportsonline.si/channels/pt/sporttv5.php
+
+
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SPT1HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Sporttv-1.svg",SPORTV 1 FHD
+https://v2.sportsonline.si/channels/pt/sporttv1.php
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SPT2HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Sporttv-2.svg",SPORTV 2 FHD
+https://v2.sportsonline.si/channels/pt/sporttv2.php
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SPT3HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Sporttv-3.svg",SPORTV 3 FHD
+https://v2.sportsonline.si/channels/pt/sporttv3.php
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SPT4HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/Sporttv-4.svg",SPORTV 4 FHD
+https://v2.sportsonline.si/channels/pt/sporttv4.php
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SPT5HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Sporttv-5.svg",SPORTV 5 FHD
+https://v2.sportsonline.si/channels/pt/sporttv5.php
+
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SPT1HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Sporttv-1.svg",SPORTV 1 FHD
+https://v3.sportsonline.sx/channels/pt/sporttv1.php
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SPT2HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Sporttv-2.svg",SPORTV 2 FHD
+https://v3.sportsonline.sx/channels/pt/sporttv2.php
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SPT3HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Sporttv-3.svg",SPORTV 3 FHD
+https://v3.sportsonline.sx/channels/pt/sporttv3.php
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SPT4HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/Sporttv-4.svg",SPORTV 4 FHD
+https://v3.sportsonline.sx/channels/pt/sporttv4.php
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SPT5HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Sporttv-5.svg",SPORTV 5 FHD
+https://v3.sportsonline.sx/channels/pt/sporttv5.php
+
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="Eleven1.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Eleven_1.svg",ELEVEN SPORTS 1 FHD
+https://sportsonline.si/channels/pt/eleven1.php  
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="Eleven2.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Eleven_2.svg",ELEVEN SPORTS 2 FHD
+https://sportsonline.si/channels/pt/eleven2.php  
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="Eleven3.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Eleven_3.svg",ELEVEN SPORTS 3 FHD
+https://sportsonline.si/channels/pt/eleven3.php  
+
+
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="Eleven1.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Eleven_1.svg",ELEVEN SPORTS 1 FHD
+https://v2.sportsonline.si/channels/pt/eleven1.php  
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="Eleven2.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Eleven_2.svg",ELEVEN SPORTS 2 FHD
+https://v2.sportsonline.si/channels/pt/eleven2.php  
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="Eleven3.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Eleven_3.svg",ELEVEN SPORTS 3 FHD
+https://v2.sportsonline.si/channels/pt/eleven3.php  
+
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="Eleven1.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Eleven_1.svg",ELEVEN SPORTS 1 FHD
+https://v3.sportsonline.sx/channels/pt/eleven1.php
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="Eleven2.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Eleven_2.svg",ELEVEN SPORTS 2 FHD
+https://v3.sportsonline.sx/channels/pt/eleven2.php 
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="Eleven3.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Eleven_3.svg",ELEVEN SPORTS 3 FHD
+https://v3.sportsonline.sx/channels/pt/eleven3.php
+
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SLBHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/BTV_2014_SVG.svg",BENFICA TV FHD
+https://sportsonline.si/channels/pt/btv.php
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SLBHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/BTV_2014_SVG.svg",BENFICA TV FHD
+https://v2.sportsonline.si/channels/pt/btv.php
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SLBHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/BTV_2014_SVG.svg",BENFICA TV FHD
+https://v3.sportsonline.sx/channels/pt/btv.php
+
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="STAR.pt" group-title="Portugal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/Star_Channel_2023.svg",Star Channelᴴᴰ 🇵🇹
 http://50.7.137.106:8080/FOX/index.m3u8?token=test
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="STAR.pt" group-title="Portugal" tvg-logo="",AXNᴴᴰ 🇵🇹
