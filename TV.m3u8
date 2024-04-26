@@ -2638,8 +2638,6 @@ https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvirea
 ##EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SLBHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/BTV_2014_SVG.svg",BENFICA TV FHD
 #https://v3.sportsonline.sx/channels/pt/btv.php
 
-#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="STAR.pt" group-title="Portugal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/Star_Channel_2023.svg",Star Channelᴴᴰ 🇵🇹
-http://50.7.137.106:8080/FOX/index.m3u8?token=test
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="STAR.pt" group-title="Portugal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg",AXNᴴᴰ 🇵🇹
 http://50.7.137.106:8080/AXN/index.m3u8?token=test
 
