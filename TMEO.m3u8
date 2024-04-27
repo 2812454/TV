@@ -1,0 +1,770 @@
+#EXTM3U
+
+#EXTINF:-1, RTP1
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RTP1_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+#EXTINF:-1, RTP2
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RTP_2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, SIC
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24SIC_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, TVI
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24TVI_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, SIC Notícias
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24SIC_Noticias_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, RTP3
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RTP_3_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, CNN Portugal
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24TVI24_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, CMTV
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24CMTVHD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, SIC Mulher
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24SIC_Mulher_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Globo
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Globo_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, 11
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24C11_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, TVI Ficção
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24TVIFI_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, A Bola TV
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24ABOLA_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Sport TV +
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24SPORTTV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Porto Canal
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Porto_Canal_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, RTP Açores
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RTP_AC_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Sport TV1
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24SPORTTV1_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Sport TV2
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24SPORTTV2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Sport TV3
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24SPORTTV3_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Sport TV4
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24SPORTTVLive_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Sport TV5
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24SPORTTV_GOLFE_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Sport TV6
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24SPORTTV6_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, NBA TV
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24NBA_TV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, BTV
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Benfica_TV_1_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Eleven 1
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Eleven 2
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Eleven 3
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Eleven_Sports_3_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Eleven 4
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Eleven_Sports_4_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Eleven 5
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Eleven_Sports_5_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Eleven 6
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Eleven_Sports_6_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Sporting TV HD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Sporting_TV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Eurosport 1
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Eurosport_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Eurosport 2
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Eurosport_2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, SIC K
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24SIC_K_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Biggs
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Panda_Biggs/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Nickelodeon
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Nickelodeon_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Disney Junior
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Disney_Junior_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Panda
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Panda_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Lolly Kids
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Lolly_Kids_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Baby TV
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Baby_TV/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, TVCine Top
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24TVCine_1_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, TVCine Edition
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24TVCine_2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, TVCine Emotion
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24TVCine_3_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, TVCine Action
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24TVCine_4_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Cinemundo
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Cinemundo_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Hollywood
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Hollywood_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, FOX Movies
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24FOX_Movies_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, AMC
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24AMC_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, AXN Movies HD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24AXN_Black_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, MEO VideoClube
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24MEO_VideoClube_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, FOX
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24FOX_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, FOX Life
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24FOX_Life_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, FOX Crime
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24FOX_Crime_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, FOX Comedy
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24FOX_Comedy_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, AXN HD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24AXN_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, AXN White HD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24AXN_White_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, SyFy
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24SyFy_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Promo TVCine HD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24TVSeries_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, MEO Destaques
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24MEO_Destaques_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Discovery Channel
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Discovery_Channel_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, História
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Historia_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Odisseia
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Odisseia_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, National Geographic
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24National_Geographic_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, National Geographic Wild
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Nat_Geo_Wild_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Q
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Canal_Q_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, SIC Radical
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24SIC_Radical_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, MTV Portugal
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24MTV_Portugal_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, AMC Break
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Blaze_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Fuel TV
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Fuel_TV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Gametoon
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Game_Toon_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, AMC Crime
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Crime_Investigation_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, SIC Caras
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24SIC_Caras_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, E! Entertainment
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24E_Entertainment_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, 24Kitchen
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%2424Kitchen_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, FTV
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24FTV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, S+
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Saude_Mais_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, MTV Live
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24MTV_Live_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, MTV 00s
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24VH1/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Trace Urban
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Trace_TV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, MCM POP
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24MCM_POP/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, MCM Top
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24MCM_TOP_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Afro Music
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Afro_Music_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Clubbing TV
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Clubbing_TV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Trace Toca
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Trace_Toca_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Trace Brazuca
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Trace_Brazuca_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Alma Lusa
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Alma_Lusa_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Mezzo Live HD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Mezzo_Live_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Stingray Classica
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Brava_HDTV/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Stingray iConcerts
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24iCONCERTS_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Stingray Loud
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Stingray_Loud_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Stingray Retro
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Stingray_Retro_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, RTP Açores
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RTP_AC_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Localvisão TV
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Localvisao_TV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Toros TV
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Toros_TV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Caça e Pesca
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Caca_e_Pesca_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Caçavision
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Cacavision_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Canção Nova
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Cancao_Nova_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, TV Verdade
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24TV_Verdade_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Dog TV
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24DOGTV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Globo News
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Globo_Premium_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Record TV
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24TV_Record_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, NHK World Japan
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24NHK_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, CGTN
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24CGTN_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Euronews (I)
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Euronews_ing_hd/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Deutsche Welle (I)
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Deutsche_Welle_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Aljazeera
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24AlJazeera_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, TRT World
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24TRT_World_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Russia Today
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RUSSIA_TODAY_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Somos
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Somos_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Sol Musica
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Sol_Musica_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Canal Cocina
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Canal_Cocina_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, Decasa
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Decasa_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, TV5 Monde
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24TV5_Monde_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+#EXTINF:-1, CCTV4
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24CCTV_4_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+
+
+
+
+#EXTINF:-1, Afro Music
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Afro_Music/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Mezzo
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Mezzo/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, MTV 00s
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24VH1/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Stingray iConcerts
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24iCONCERTS/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Nickelodeon
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Nickelodeon/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, RTP Memória
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RTP_Memoria/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Galeria
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Galeria/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, ARTV
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24AR_TV/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, CANAL 180
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24CANAL_180/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Kuriakos TV
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Kuriakos_TV/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, PFC
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24PFC/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Record News
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Record_News/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Euronews
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Euronews/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, RTP África
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RTP_Africa/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, TPA Internacional
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24TPA_INTERNACIONAL/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, TCV Internacional
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24TCV_Internacional/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, CNN
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24CNN/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Bloomberg
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Bloomberg/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, SKY News
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Sky_News/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, BBC World News
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24BBC_World/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, BBC Entertainment
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24BBC_Entertainment/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, France 24 (I)
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24France_24_I/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, CGTN Documentary
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24CGTN_Documentary/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Channel 1 Russia
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24CHANNEL_1_RUSSIA/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Globovision
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Globovision/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Cubavision
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Cubavision/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, BFM TV
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24BFM_TV/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, BFM Business
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24BFM_Business/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, i24 News (F)
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24i24_News_F/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, France 24 (F)
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24France_24_F/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Deutsche Welle (A)
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Deutsche_Welle_A/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Euronews (A)
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Euronews_a/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, BVN
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24BVN/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, PRO TV Internacional
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24PRO_TV_Internacional/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, BNT 4
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24BNT_SAT/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, KBS World
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24KBS_World/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, ZEE TV
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24ZEE_TV/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, ZEE CINEMA
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24ZEE_CINEMA/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, SET ASIA
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24SET_ASIA/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, SET MAX
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24SET_MAX/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, RTP1
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RTP_1/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, RTP2
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RTP_2/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, SIC
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24SIC_SD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, TVI
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24TVI_SD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, SIC Notícias
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24SIC_Noticias/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, RTP3
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RTP_Informacao/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, CNN Portugal
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24TVI24_SD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, CMTV
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24CMTV_SD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, SIC Mulher
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24SIC_Mulher/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Globo
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Globo/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, 11
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24C11_SD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, TVI Ficção
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24TVI_Ficcao/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, A Bola TV
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24ABOLA_TV/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Sport TV+
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24SPORTTV/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Porto Canal
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Porto_Canal/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, RTP Açores
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RTP_Acores/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Sport TV1
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24SPORTTV1/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Sport TV2
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24SPORTTV2/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Sport TV3
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24SPORTTV3/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Sport TV4
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24SPORTTVLive/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Sport TV5
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24SPORTTV_GOLFE/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, BTV
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Benfica_TV/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Eleven 1
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Eleven_Sports_1/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Eleven 2
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Eleven_Sports_2/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Eleven 3
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Eleven_Sports_3/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Eleven 4
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Eleven_Sports_4/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Eleven 5
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Eleven_Sports_5/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Eleven 6
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Eleven_Sports_6/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Sporting TV
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Sporting_TV/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Eurosport 1
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Eurosport/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Eurosport 2
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Eurosport_2/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Disney Channel
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Disney_Channel/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Cartoon Network
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Cartoon_Network/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, SIC K
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24SIC_K/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Disney Junior
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Disney_Junior/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Panda
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Panda_SD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, TVCine Top
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24TVCINE_1/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, TVCine Edition
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24TVCINE_2/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, TVCine Emotion
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24TVCINE_3/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, TVCine 4
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24TVCINE_4/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Cinemundo
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24CINEMUNDO/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Hollywood
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Hollywood/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, FOX Movies
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24FOX_Movies/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, AMC
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24AMC/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, AXN Movies
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24AXN_Black/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, FOX
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24FOX/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, FOX Life
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24FOX_Life/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, FOX Crime
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24FOX_Crime/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, FOX Comedy
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24FX/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, AXN
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24AXN/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, AXN White
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24AXN_White/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, SyFy
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24SyFy/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Promo TVCine
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24TVSeries/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Discovery Channel
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Discovery_Channel/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, História
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Historia/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Odisseia
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Odisseia/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, National Geographic
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24National_Geographic/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, National Geographic Wild
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Nat_Geo_Wild/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Q
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Q/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, SIC Radical
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24SIC_Radical/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, MTV Portugal
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24MTV_Portugal/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, AMC Crime
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Crime_Investigation/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, SIC Caras
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24SIC_Caras/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, E! Entertainment
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24E_Entertainment/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, 24Kitchen
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%2424Kitchen/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, FTV
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Fashion_TV/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Mas Chic
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Casa_Club/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Trace Urban
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Trace_TV/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, MCM TOP
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24MCM_TOP/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Clubbing TV
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Clubbing_TV_SD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, RTP Açores
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RTP_AC/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, RTP Madeira
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RTP_Madeira/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, RTP Madeira
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RTP_Madeira/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Localvisão TV
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Localvisao_TV/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Toros TV
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24TOROS_TV/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Caça e Pesca
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Caca_e_Pesca/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Caçavision
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24CACAVISION/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Canção Nova
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Cancao_Nova/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, UM Europa
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24UM_Europa/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Dog TV
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24DOGTV/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Globo News
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24TV_Globo_Portugal/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Record TV
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24TV_Record/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, CNBC
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24CNBC_Europe/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, i24 News (I)
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24i24_News_I/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, CGTN
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24CGTN/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Euronews (I)
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Euronews_ing/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Aljazeera
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24AlJazeera/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, TV Galícia
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24TV_Galicia/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, M6
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24M6_SD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, TV5 Monde
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24TV5_Monde/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, CCTV 4
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24CCTV_4/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, Phoenix CNE
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24PHOENIX_CNE/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, RAI 1
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_1/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, RAI 2
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_2/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, RAI 3
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_3/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, RAI News
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_News/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, RAI Scuola
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_Scuola/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1, RAI Storia
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_Storia/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
