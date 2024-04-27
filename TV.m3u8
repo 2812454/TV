@@ -2653,7 +2653,7 @@ https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨"  tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/fatima.png",Santuário de Fátimaᴴᴰ
 https://streamer-a01.videos.sapo.pt/live/santuario/chunklist.m3u8?wowzasessionid=inspiration
 
-#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="ARTV.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Radio-zig-zag-destaque-1.jpg",Rádio ZIG ZAG
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="zigzag.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Radio-zig-zag-destaque-1.jpg",Rádio ZIG ZAG
 https://streaming-live.rtp.pt/liveradio/zigzag80a/chunklist.m3u8
 
 
