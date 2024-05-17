@@ -1103,21 +1103,31 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="RTP2.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/RTP2_logo_2016.png",RTP 2
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SIC.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/sic.webp",SICᴴᴰ
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SIC.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/sic.webp",SICᴴᴰ
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_5.m3u8
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SIC.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/sic.webp",SICᴴᴰ
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="TVI.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tvi.png",TVIᴴᴰ
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
+https://video-auth6.iol.pt/edge_servers/tvi-720_passthrough/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDI0IDQ6MTY6NDUgUE0maGFzaF92YWx1ZT0reER0Z3ZQb0EyZEhIeWJiL0JPM3ZBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MTgyMDg1NWEtNWYzNC00OGMzLTg5MjUtMzYwMzU3MWNhYjU3
 
 
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="CNNPORTUGAL.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg",CNN PORTUGAL
 https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="sicnoticias.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/SIC_Not%C3%ADcias_2023.svg",SIC NOTICIAS
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="sicnoticias.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/SIC_Not%C3%ADcias_2023.svg",SIC NOTICIAS
+https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index_3.m3u8
 	
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="PortoCanal.pt" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/PortoCanal.png",Porto Canalᴴᴰ 🇵🇹 
 https://bcovlive-a.akamaihd.net/34ec8f209dcc48dda853aca054c97ab2/eu-west-1/6415811594001/profile_0/chunklist_dvr.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="EuronewsPortuguese.fr" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/EuroNews.png",EuroNewsᴴᴰ 🇵🇹
-https://bit.ly/46RyCcU?profile=inspirationFreeTv.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="RTPMemoria.pt" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtpinternacional.png",RTP INTERNACIONAL
+http://37.17.238.214:8080/udp/239.77.4.11:5000
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="RTPMemoria.pt" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtpinternacional.png",RTP INTERNACIONAL
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="RTPMemoria.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/RtpMemoria_positivo_horiz_RGB.png",RTP Memoria ѕᴅ
 https://streaming-live.rtp.pt/liverepeater/smil:estudoemcasa.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="RTPAcores.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/RTP_A%C3%A7ores_%282016%29.svg",RTP Açoresᴴᴰ
@@ -1132,17 +1142,19 @@ https://streaming-live.rtp.pt/liverepeater/smilzigzagHD.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="zigzag.pt" tvg-logo="https://cdn-images.rtp.pt/play/zigzag/imgs/zz_logowhite.png",ZIG ZAG
 https://streaming-live.rtp.pt/liverepeater/smil:zigzag.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SICReplay.png",SIC Replayᴴᴰ
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SICReplay.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SICReplay.png",SIC Replayᴴᴰ
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
-#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SICAltaDefinicao.png",SIC Alta Definiçãoᴴᴰ
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SICAltaDefinicao.pt"  tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SICAltaDefinicao.png",SIC Alta Definiçãoᴴᴰ
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
-#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="sicnovelashd.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/SICNovelas.png",SIC Novelasᴴᴰ
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SICNovelas.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/SICNovelas.png",SIC Novelasᴴᴰ
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9ae705b449477523ec/channels/d9070446-8448-455e-8075-773b1ba12562/f083c6ea-33af-458e-82c5-f27f6b42f9ec/media_.m3u8
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SICNovelas.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/SICNovelas.png",SIC Novelasᴴᴰ
+https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="TVIINT.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tviInternacional.png",TVI Internacional sᴅ
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="TVIFiccao.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tviFic%C3%A7%C3%A3o.png",TVI Ficçãoᴴᴰ
-https://bit.ly/3gejKxf?profile=inspirationFreeTv.m3u8
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="TVIReality.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tviReality.png",TVI Realityᴴᴰ
 https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="TVIAfrica.pt"tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tvi%C3%81frica.png",TVI África ѕᴅ
@@ -1214,7 +1226,17 @@ https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafric
 #https://v3.sportsonline.sx/channels/pt/btv.php
 
 
-#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="STAR.pt" group-title="Portugal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg",AXNᴴᴰ 🇵🇹
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/myTimeMovie.webp",My Time Movie networkᴴᴰ 🇵🇹🇧🇷 🟤
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/myTimeMovie.webp",My Time Movie networkᴴᴰ 🇵🇹🇧🇷 🟤
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytymmovbrazil-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/MovieSphere.png",MovieSphereᴴᴰ 🇵🇹🇧🇷 🟤
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-moviesperebr-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-logo="https://bravi.tv/wp-content/uploads/2016/12/europa-filmes-214x214.png",Europa Play Filmes Nacionaisᴴᴰ 🇧🇷
+https://cdn-2.nxplay.com.br/europaplay/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1  tvg-id="STAR.pt" group-title="Portugal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg",AXNᴴᴰ 🇵🇹
 http://50.7.137.106:8080/AXN/index.m3u8?token=test
 
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/RTL_L%C3%ABtzebuerg_%282023%29.svg",RTL FHD
@@ -1222,12 +1244,16 @@ https://stream.rtl.lu/data/live/tele/channel1/1080p.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="STAR.pt" group-title="Portugal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Kurikos.png",KURIAKOSᴴᴰ 🇵🇹
 https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_w1622822785_b3048000_sleng.m3u8
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="STAR.pt" group-title="Portugal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Kurikos.png",KURIAKOSᴴᴰ 🇵🇹
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="ARTV.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ARTV.png",ARTVᴴᴰ
 https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨"  tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/fatima.png",Santuário de Fátimaᴴᴰ
 https://streamer-a01.videos.sapo.pt/live/santuario/chunklist.m3u8?wowzasessionid=inspiration
 
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-logo="https://imgur.com/3bvMvx2.png",Rakuten Famíliaᴴᴰ 🇵🇹 🟤
+https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="zigzag.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Radio-zig-zag-destaque-1.jpg",Rádio ZIG ZAG
 https://streaming-live.rtp.pt/liveradio/zigzag80a/chunklist.m3u8
 
