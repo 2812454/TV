@@ -83,7 +83,8 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$NB
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Fight_Sports_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
 #EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="WSPORT" tvg-logo="https://www.w-sport.com/wp-content/uploads/2022/09/logo2nd.svg",W SPORT FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$W_Sport_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
-
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="XSport.ua" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/XSport%2B.svg",X SPORT+ FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$X_Sport_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
 
 
 #EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="TVCineTop.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/TVCine_TOP_%282020%29.svg",TV CINE TOP FHD
@@ -141,26 +142,31 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$In
 
 #EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="sick.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/SIC_K.svg",SIC K FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SIC_K_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="Biggs.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Biggs_2023_Logo_%28Green%29.svg",BIGGS FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Panda_Biggs_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
 #EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="CanalPanda.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Canal_Panda_%282015%2C_stacked%29.svg",CANAL PANDA FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Panda_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="boomerang.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Cartoonito_logo_2021.svg",CARTOONITO FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Boomerang_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
 #EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="pandakids.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Panda_Kids_Logo.svg",PANDA KIDS FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Panda_Kids_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
 #EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="disneychannel.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Disney_Channel_2022.svg",DISNEY CHANNEL FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Disney_Channel_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
 #EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="disneyjunior.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Disney_Junior_2019.svg",DISNEY JUNIOR FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Disney_Junior_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="NICKJR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Nick_Jr._Splat_2023.png",NICK JR SD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Nick_JR/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="Biggs.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Biggs_2023_Logo_%28Green%29.svg",BIGGS SD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Panda_Biggs/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="boomerang.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Cartoonito_logo_2021.svg",CARTOONITO FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Boomerang_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="NICKJR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Nick_Jr._Splat_2023.png",NICK JR FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Nick_JR_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
 #EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="lollykids.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Lolly_Kids_TV_2018.svg/revision/latest?cb=20220608234257&path-prefix=es",LOLLY KIDS FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Lolly_Kids_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
 #EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="cartoonnetwork.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg",CARTOON NETWORK FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Cartoon_Network_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="DUCKTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Bebe_TV_logo.svg",DUCK TV FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Rybalka_TV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
 #EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="BabyTV.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/BabyTV_Blue.png",BABY TV SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Baby_TV/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="Gametoon.nl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Gametoon_HD.svg",GAME TOON FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Game_Toon_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
 
 #EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="QHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Canal_Q.png",CANAL Q FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Canal_Q_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
@@ -241,6 +247,8 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$DO
 #EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="CANAL_180.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Canal180_logo.png",CANAL 180 FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$CANAL_180/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
 
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="M6.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/M6_2020.svg",M6
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24M6_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
 #EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="France_2_HD.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/France_2_2018.svg",FRANCE 2 FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$France_2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
 #EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="France_3_HD.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/France_3_2018.svg",FRANCE 3 FHD
@@ -249,7 +257,8 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Fr
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$France_5_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
 
 
-
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="FUELTV.at" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Fuel_TV.svg", FUEL TV FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Fuel_TV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
 #EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="SPlus.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Tvverade.PNG",TV VERDADE FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TV_Verdade_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
 #EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="CanalUmEuropa.pt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkIzSdiOuKUQsAdPV46VCsMWO-lcrCSveFaetrpsepS2ldMCLn6b69mKAu8dL8I_smF0U&usqp=CAU",UM EUROPA FHD
@@ -312,6 +321,7 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Te
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Cubavision/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
 #EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="TV5HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/TV5Monde_2021.svg",TV5 MONDE FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TV5_Monde_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
 #EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="BFMTV.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/BFM_TV_2019.jpg",BFM TV SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$BFM_TV/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
 #EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="BFMBusiness.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/BFM_Business_2020.png",BFM BUSINESS SD
@@ -324,6 +334,7 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Fr
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$ARTE_F_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
 #EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Euronews_2022.svg",EURONEWS A SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Euronews_a/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
 #EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="BVN.nl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/BVN_2018.svg",BVN SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$BVN/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
 #EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="PROTVInternational.ro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Pro_TV_Int_2017.png",PRO TV INTERNACIONAL SD
@@ -348,10 +359,22 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$NL
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Star_Cinema_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
 #EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="StarFamily.ru" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star_Family_%28Ukraine%29_%282017%29.svg",STAR FAMILY UA FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Star_Family_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="XSport.ua" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/XSport%2B.svg",X SPORT+ FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$X_Sport_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="DUCKTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Bebe_TV_logo.svg",DUCK TV FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Rybalka_TV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+
+
+
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="Rai1.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Rai_1_2016.svg",RAI 1 FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_1/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="Rai2.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Rai_2_2016.svg",RAI 2 FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_2/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="Rai3.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Rai_3_2016.svg",RAI 3 FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_3/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="RaiScuola.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Rai_Scuola_New_Logo.svg", RAI Scuola FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_Scuola/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="RaiStoria.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Rai_Storia_New_Logo.svg", RAI Storia FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_Storia/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="RaiNews24.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Rai_News_new_logo.svg", RAI News 24 SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_News/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
 #EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="ZeeTVUK.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Zee_TV_2017.svg",ZEE TV SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$ZEE_TV/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
 #EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="ZeeCinemaUK.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Zee_Cinema_2017.svg",ZEE CINEMA SD
@@ -360,6 +383,12 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$ZE
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SET_ASIA/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
 #EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="SonyMax.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Sony_MAX_SD.png",SONY MAX IN SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SET_MAX/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+
+
+
+
+
 
 
 
@@ -447,6 +476,8 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$NB
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Fight_Sports_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
 #EXTINF:-1 group-title="✨MEO HD✨" tvg-id="WSPORT" tvg-logo="https://www.w-sport.com/wp-content/uploads/2022/09/logo2nd.svg",W SPORT HD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$W_Sport_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
+#EXTINF:-1 group-title="✨MEO HD✨" tvg-id="XSport.ua" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/XSport%2B.svg",X SPORT+ HD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$X_Sport_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
 
 
 
@@ -505,26 +536,31 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$In
 
 #EXTINF:-1 group-title="✨MEO HD✨" tvg-id="sick.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/SIC_K.svg",SIC K HD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SIC_K_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
+#EXTINF:-1 group-title="✨MEO HD✨" tvg-id="Biggs.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Biggs_2023_Logo_%28Green%29.svg",BIGGS HD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Panda_Biggs_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
 #EXTINF:-1 group-title="✨MEO HD✨" tvg-id="CanalPanda.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Canal_Panda_%282015%2C_stacked%29.svg",CANAL PANDA HD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Panda_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
+#EXTINF:-1 group-title="✨MEO HD✨" tvg-id="boomerang.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Cartoonito_logo_2021.svg",CARTOONITO HD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Boomerang_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
 #EXTINF:-1 group-title="✨MEO HD✨" tvg-id="pandakids.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Panda_Kids_Logo.svg",PANDA KIDS HD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Panda_Kids_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
 #EXTINF:-1 group-title="✨MEO HD✨" tvg-id="disneychannel.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Disney_Channel_2022.svg",DISNEY CHANNEL HD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Disney_Channel_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
 #EXTINF:-1 group-title="✨MEO HD✨" tvg-id="disneyjunior.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Disney_Junior_2019.svg",DISNEY JUNIOR HD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Disney_Junior_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
-#EXTINF:-1 group-title="✨MEO HD✨" tvg-id="NICKJR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Nick_Jr._Splat_2023.png",NICK JR SD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Nick_JR/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
-#EXTINF:-1 group-title="✨MEO HD✨" tvg-id="Biggs.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Biggs_2023_Logo_%28Green%29.svg",BIGGS SD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Panda_Biggs/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
-#EXTINF:-1 group-title="✨MEO HD✨" tvg-id="boomerang.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Cartoonito_logo_2021.svg",CARTOONITO HD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Boomerang_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
+#EXTINF:-1 group-title="✨MEO HD✨" tvg-id="NICKJR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Nick_Jr._Splat_2023.png",NICK JR HD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Nick_JR_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
 #EXTINF:-1 group-title="✨MEO HD✨" tvg-id="lollykids.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Lolly_Kids_TV_2018.svg/revision/latest?cb=20220608234257&path-prefix=es",LOLLY KIDS HD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Lolly_Kids_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
 #EXTINF:-1 group-title="✨MEO HD✨" tvg-id="cartoonnetwork.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg",CARTOON NETWORK HD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Cartoon_Network_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
+#EXTINF:-1 group-title="✨MEO HD✨" tvg-id="DUCKTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Bebe_TV_logo.svg",DUCK TV HD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Rybalka_TV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
 #EXTINF:-1 group-title="✨MEO HD✨" tvg-id="BabyTV.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/BabyTV_Blue.png",BABY TV SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Baby_TV/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1 group-title="✨MEO HD✨" tvg-id="Gametoon.nl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Gametoon_HD.svg",GAME TOON HD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Game_Toon_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
 
 #EXTINF:-1 group-title="✨MEO HD✨" tvg-id="QHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Canal_Q.png",CANAL Q HD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Canal_Q_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
@@ -605,6 +641,8 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$DO
 #EXTINF:-1 group-title="✨MEO HD✨" tvg-id="CANAL_180.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Canal180_logo.png",CANAL 180 HD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$CANAL_180/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
 
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="M6.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/M6_2020.svg",M6
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24M6_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
 #EXTINF:-1 group-title="✨MEO HD✨" tvg-id="France_2_HD.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/France_2_2018.svg",FRANCE 2 HD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$France_2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
 #EXTINF:-1 group-title="✨MEO HD✨" tvg-id="France_3_HD.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/France_3_2018.svg",FRANCE 3 HD
@@ -613,7 +651,8 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Fr
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$France_5_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
 
 
-
+#EXTINF:-1 group-title="✨MEO HD✨" tvg-id="FUELTV.at" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Fuel_TV.svg", FUEL TV HD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Fuel_TV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
 #EXTINF:-1 group-title="✨MEO HD✨" tvg-id="SPlus.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Tvverade.PNG",TV VERDADE HD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TV_Verdade_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
 #EXTINF:-1 group-title="✨MEO HD✨" tvg-id="CanalUmEuropa.pt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkIzSdiOuKUQsAdPV46VCsMWO-lcrCSveFaetrpsepS2ldMCLn6b69mKAu8dL8I_smF0U&usqp=CAU",UM EUROPA HD
@@ -712,10 +751,20 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$NL
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Star_Cinema_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
 #EXTINF:-1 group-title="✨MEO HD✨" tvg-id="StarFamily.ru" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star_Family_%28Ukraine%29_%282017%29.svg",STAR FAMILY UA HD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Star_Family_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
-#EXTINF:-1 group-title="✨MEO HD✨" tvg-id="XSport.ua" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/XSport%2B.svg",X SPORT+ HD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$X_Sport_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
-#EXTINF:-1 group-title="✨MEO HD✨" tvg-id="DUCKTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Bebe_TV_logo.svg",DUCK TV HD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Rybalka_TV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
+
+#EXTINF:-1 group-title="✨MEO HD✨" tvg-id="Rai1.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Rai_1_2016.svg",RAI 1 HD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_1/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
+#EXTINF:-1 group-title="✨MEO HD✨" tvg-id="Rai2.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Rai_2_2016.svg",RAI 2 HD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_2/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
+#EXTINF:-1 group-title="✨MEO HD✨" tvg-id="Rai3.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Rai_3_2016.svg",RAI 3 HD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_3/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
+#EXTINF:-1 group-title="✨MEO HD✨" tvg-id="RaiScuola.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Rai_Scuola_New_Logo.svg", RAI Scuola HD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_Scuola/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
+#EXTINF:-1 group-title="✨MEO HD✨" tvg-id="RaiStoria.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Rai_Storia_New_Logo.svg", RAI Storia HD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_Storia/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
+#EXTINF:-1 group-title="✨MEO HD✨" tvg-id="RaiNews24.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Rai_News_new_logo.svg", RAI News 24 SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_News/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
 #EXTINF:-1 group-title="✨MEO HD✨" tvg-id="ZeeTVUK.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Zee_TV_2017.svg",ZEE TV SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$ZEE_TV/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
 #EXTINF:-1 group-title="✨MEO HD✨" tvg-id="ZeeCinemaUK.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Zee_Cinema_2017.svg",ZEE CINEMA SD
@@ -724,6 +773,10 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$ZE
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SET_ASIA/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
 #EXTINF:-1 group-title="✨MEO HD✨" tvg-id="SonyMax.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Sony_MAX_SD.png",SONY MAX IN SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SET_MAX/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+
+
+
 
 
 
@@ -811,7 +864,8 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$NB
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Fight_Sports_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
 #EXTINF:-1 group-title="✨MEO SD✨" tvg-id="WSPORT" tvg-logo="https://www.w-sport.com/wp-content/uploads/2022/09/logo2nd.svg",W SPORT SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$W_Sport_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
-
+#EXTINF:-1 group-title="✨MEO SD✨" tvg-id="XSport.ua" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/XSport%2B.svg",X SPORT+ SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$X_Sport_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
 
 
 #EXTINF:-1 group-title="✨MEO SD✨" tvg-id="TVCineTop.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/TVCine_TOP_%282020%29.svg",TV CINE TOP SD
@@ -869,8 +923,12 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$In
 
 #EXTINF:-1 group-title="✨MEO SD✨" tvg-id="sick.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/SIC_K.svg",SIC K SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SIC_K_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+#EXTINF:-1 group-title="✨MEO SD✨" tvg-id="Biggs.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Biggs_2023_Logo_%28Green%29.svg",BIGGS SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Panda_Biggs/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
 #EXTINF:-1 group-title="✨MEO SD✨" tvg-id="CanalPanda.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Canal_Panda_%282015%2C_stacked%29.svg",CANAL PANDA SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Panda_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+#EXTINF:-1 group-title="✨MEO SD✨" tvg-id="boomerang.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Cartoonito_logo_2021.svg",CARTOONITO SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Boomerang_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
 #EXTINF:-1 group-title="✨MEO SD✨" tvg-id="pandakids.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Panda_Kids_Logo.svg",PANDA KIDS SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Panda_Kids_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
 #EXTINF:-1 group-title="✨MEO SD✨" tvg-id="disneychannel.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Disney_Channel_2022.svg",DISNEY CHANNEL SD
@@ -879,16 +937,17 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Di
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Disney_Junior_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
 #EXTINF:-1 group-title="✨MEO SD✨" tvg-id="NICKJR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Nick_Jr._Splat_2023.png",NICK JR SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Nick_JR/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
-#EXTINF:-1 group-title="✨MEO SD✨" tvg-id="Biggs.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Biggs_2023_Logo_%28Green%29.svg",BIGGS SD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Panda_Biggs/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
-#EXTINF:-1 group-title="✨MEO SD✨" tvg-id="boomerang.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Cartoonito_logo_2021.svg",CARTOONITO SD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Boomerang_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
 #EXTINF:-1 group-title="✨MEO SD✨" tvg-id="lollykids.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Lolly_Kids_TV_2018.svg/revision/latest?cb=20220608234257&path-prefix=es",LOLLY KIDS SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Lolly_Kids_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
 #EXTINF:-1 group-title="✨MEO SD✨" tvg-id="cartoonnetwork.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg",CARTOON NETWORK SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Cartoon_Network_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+#EXTINF:-1 group-title="✨MEO SD✨" tvg-id="DUCKTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Bebe_TV_logo.svg",DUCK TV SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Rybalka_TV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
 #EXTINF:-1 group-title="✨MEO SD✨" tvg-id="BabyTV.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/BabyTV_Blue.png",BABY TV SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Baby_TV/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+#EXTINF:-1 group-title="✨MEO SD✨" tvg-id="Gametoon.nl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Gametoon_HD.svg",GAME TOON SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Game_Toon_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
 
 #EXTINF:-1 group-title="✨MEO SD✨" tvg-id="QHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Canal_Q.png",CANAL Q SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Canal_Q_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
@@ -969,6 +1028,8 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$DO
 #EXTINF:-1 group-title="✨MEO SD✨" tvg-id="CANAL_180.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Canal180_logo.png",CANAL 180 SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$CANAL_180/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
 
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="M6.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/M6_2020.svg",M6
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24M6_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
 #EXTINF:-1 group-title="✨MEO SD✨" tvg-id="France_2_HD.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/France_2_2018.svg",FRANCE 2 SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$France_2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
 #EXTINF:-1 group-title="✨MEO SD✨" tvg-id="France_3_HD.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/France_3_2018.svg",FRANCE 3 SD
@@ -977,7 +1038,8 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Fr
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$France_5_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
 
 
-
+#EXTINF:-1 group-title="✨MEO SD✨" tvg-id="FUELTV.at" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Fuel_TV.svg", FUEL TV SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Fuel_TV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
 #EXTINF:-1 group-title="✨MEO SD✨" tvg-id="SPlus.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Tvverade.PNG",TV VERDADE SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TV_Verdade_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
 #EXTINF:-1 group-title="✨MEO SD✨" tvg-id="CanalUmEuropa.pt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkIzSdiOuKUQsAdPV46VCsMWO-lcrCSveFaetrpsepS2ldMCLn6b69mKAu8dL8I_smF0U&usqp=CAU",UM EUROPA SD
@@ -1076,10 +1138,22 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$NL
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Star_Cinema_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
 #EXTINF:-1 group-title="✨MEO SD✨" tvg-id="StarFamily.ru" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star_Family_%28Ukraine%29_%282017%29.svg",STAR FAMILY UA SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Star_Family_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
-#EXTINF:-1 group-title="✨MEO SD✨" tvg-id="XSport.ua" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/XSport%2B.svg",X SPORT+ SD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$X_Sport_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
-#EXTINF:-1 group-title="✨MEO SD✨" tvg-id="DUCKTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Bebe_TV_logo.svg",DUCK TV SD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Rybalka_TV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+
+#EXTINF:-1 group-title="✨MEO SD✨" tvg-id="Rai1.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Rai_1_2016.svg",RAI 1 SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_1/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+#EXTINF:-1 group-title="✨MEO SD✨" tvg-id="Rai2.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Rai_2_2016.svg",RAI 2 SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_2/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+#EXTINF:-1 group-title="✨MEO SD✨" tvg-id="Rai3.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Rai_3_2016.svg",RAI 3 SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_3/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+#EXTINF:-1 group-title="✨MEO SD✨" tvg-id="RaiScuola.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Rai_Scuola_New_Logo.svg", RAI Scuola SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_Scuola/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+#EXTINF:-1 group-title="✨MEO SD✨" tvg-id="RaiStoria.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Rai_Storia_New_Logo.svg", RAI Storia SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_Storia/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+#EXTINF:-1 group-title="✨MEO SD✨" tvg-id="RaiNews24.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Rai_News_new_logo.svg", RAI News 24 SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_News/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+
+
 #EXTINF:-1 group-title="✨MEO SD✨" tvg-id="ZeeTVUK.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Zee_TV_2017.svg",ZEE TV SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$ZEE_TV/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
 #EXTINF:-1 group-title="✨MEO SD✨" tvg-id="ZeeCinemaUK.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Zee_Cinema_2017.svg",ZEE CINEMA SD
