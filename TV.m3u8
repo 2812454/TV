@@ -2832,6 +2832,10 @@ http://globo.xphost18.xyz:2052/JgfgjjbcfyyDFD/678888yygfFFD/15
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨BRASIL✨"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Globo2021_var_blue.svg",Globo SP2ᴴᴰ
 http://hls1.sua.tv:80/live/globosphd/s.m3u8
+#EXTINF:-1 group-title="TV ABERTA - ✨BRASIL✨"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Record_2023_with_wordmark.png",Recordᴴᴰ
+https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TV ABERTA - ✨BRASIL✨"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/SporTV_2021.svg",SPORTVᴴᴰ
+http://209.222.97.92:16525
 
 #EXTINF:-1 group-title="TV ABERTA - ✨BRASIL✨"  tvg-logo="https://conteudo.imguol.com.br/c/play/logo_canaluol.svg",Canal UOLᴴᴰ
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-07et6wc1z29gv/index.m3u8
