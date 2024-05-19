@@ -1211,10 +1211,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="RTPAfrica.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/RTP_%C3%81frica_%282016%29.svg",RTP África ѕᴅ
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="zigzag.pt" tvg-logo="https://cdn-images.rtp.pt/play/zigzag/imgs/zz_logowhite.png",ZIG ZAGᴴᴰ
-https://streaming-live.rtp.pt/liverepeater/smilzigzagHD.smil/playlist.m3u8
-#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="zigzag.pt" tvg-logo="https://cdn-images.rtp.pt/play/zigzag/imgs/zz_logowhite.png",ZIG ZAG
-https://streaming-live.rtp.pt/liverepeater/smil:zigzag.smil/playlist.m3u8
+
 
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SICReplay.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SICReplay.png",SIC Replayᴴᴰ
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
@@ -1253,6 +1250,11 @@ https://stream.rtl.lu/data/live/tele/channel1/1080p.m3u8
 https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_w1622822785_b3048000_sleng.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Rakuten_logo.svg",RAKUTEN TV Famíliaᴴᴰ 🇵🇹
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="zigzag.pt" tvg-logo="https://cdn-images.rtp.pt/play/zigzag/imgs/zz_logowhite.png",ZIG ZAGᴴᴰ
+https://streaming-live.rtp.pt/liverepeater/smilzigzagHD.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="zigzag.pt" tvg-logo="https://cdn-images.rtp.pt/play/zigzag/imgs/zz_logowhite.png",ZIG ZAG
+https://streaming-live.rtp.pt/liverepeater/smil:zigzag.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="zigzag.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Radio-zig-zag-destaque-1.jpg",Rádio ZIG ZAG
 https://streaming-live.rtp.pt/liveradio/zigzag80a/chunklist.m3u8
 
