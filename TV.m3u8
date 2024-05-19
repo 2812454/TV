@@ -1222,8 +1222,6 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/ch
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SICNovelas.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/SICNovelas.png",SIC Novelasᴴᴰ
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9ae705b449477523ec/channels/d9070446-8448-455e-8075-773b1ba12562/f083c6ea-33af-458e-82c5-f27f6b42f9ec/media_.m3u8
-#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SICNovelas.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/SICNovelas.png",SIC Novelasᴴᴰ
-https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="TVIINT.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tviInternacional.png",TVI Internacional sᴅ
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
@@ -1234,103 +1232,34 @@ https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvirea
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="TVIAfrica.pt"tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tvi%C3%81frica.png",TVI África ѕᴅ
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 
+#EXTINF:-1  tvg-id="STAR.pt" group-title="Portugal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg",AXNᴴᴰ 🇵🇹
+http://50.7.137.106:8080/AXN/index.m3u8?token=test
 
 
-##EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SPT1HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Sporttv-1.svg",SPORTV 1 FHD
-#https://jrbsa4zckn68y3pmxh7teg.cdnkidney.net:8443/hls/xt4p2tyjgzsp4t.m3u8?s=vpUIn9dTNl_xshiuWFj1_A&e=1714107581
-##EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SPT2HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Sporttv-2.svg",SPORTV 2 FHD
-#https://jrbsa4zckn68y3pmxh7teg.cdnkidney.net:8443/hls/dm4f0c0bxcxxsau.m3u8?s=EOFLago7OZsOMd3fTN-DDw&e=1714107762
-##EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SPT3HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Sporttv-3.svg",SPORTV 3 FHD
-#https://jrbsa4zckn68y3pmxh7teg.cdnkidney.net:8443/hls/4h80gffrr5803z.m3u8?s=TH0Gci55dsiDEkdl-I5oRA&e=1714107787
-##EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SPT4HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/Sporttv-4.svg",SPORTV 4 FHD
-#https://jrbsa4zckn68y3pmxh7teg.cdnkidney.net:8443/hls/hqwwgwycxiiy.m3u8?s=sRGB6Rbm1gjDzzTeHx7qCA&e=1714107828
-##EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SPT5HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Sporttv-5.svg",SPORTV 5 FHD
-#https://sportsonline.si/channels/pt/sporttv5.php
-
-
-##EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SPT1HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Sporttv-1.svg",SPORTV 1 FHD
-#https://jrbsa4zckn68y3pmxh7teg.cdnkidney.net:8443/hls/xt4p2tyjgzsp4t.m3u8?s=fmA_Ayo1mmhCFeocxmIzIw&e=1714107082
-##EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SPT2HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Sporttv-2.svg",SPORTV 2 FHD
-#https://jrbsa4zckn68y3pmxh7teg.cdnkidney.net:8443/hls/dm4f0c0bxcxxsau.m3u8?s=zRnokWXhnWfCslfxL3k9Bg&e=1714107487
-##EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SPT3HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Sporttv-3.svg",SPORTV 3 FHD
-#https://jrbsa4zckn68y3pmxh7teg.cdnkidney.net:8443/hls/4h80gffrr5803z.m3u8?s=abu2Ire1k5PbpPlQfVkNuA&e=1714107853
-##EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SPT4HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/Sporttv-4.svg",SPORTV 4 FHD
-#https://jrbsa4zckn68y3pmxh7teg.cdnkidney.net:8443/hls/hqwwgwycxiiy.m3u8?s=WfHIAGPaUPxpIukYmtKokw&e=1714107872
-##EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SPT5HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Sporttv-5.svg",SPORTV 5 FHD
-#https://v2.sportsonline.si/channels/pt/sporttv5.php
-
-##EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SPT1HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Sporttv-1.svg",SPORTV 1 FHD
-#https://v3.sportsonline.sx/channels/pt/sporttv1.php
-##EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SPT2HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Sporttv-2.svg",SPORTV 2 FHD
-#https://v3.sportsonline.sx/channels/pt/sporttv2.php
-##EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SPT3HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Sporttv-3.svg",SPORTV 3 FHD
-#https://v3.sportsonline.sx/channels/pt/sporttv3.php
-##EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SPT4HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/Sporttv-4.svg",SPORTV 4 FHD
-#https://v3.sportsonline.sx/channels/pt/sporttv4.php
-##EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SPT5HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Sporttv-5.svg",SPORTV 5 FHD
-#https://v3.sportsonline.sx/channels/pt/sporttv5.php
-
-##EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="Eleven1.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Eleven_1.svg",ELEVEN SPORTS 1 FHD
-#https://sportsonline.si/channels/pt/eleven1.php  
-##EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="Eleven2.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Eleven_2.svg",ELEVEN SPORTS 2 FHD
-#https://sportsonline.si/channels/pt/eleven2.php  
-##EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="Eleven3.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Eleven_3.svg",ELEVEN SPORTS 3 FHD
-#https://sportsonline.si/channels/pt/eleven3.php  
-
-
-##EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="Eleven1.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Eleven_1.svg",ELEVEN SPORTS 1 FHD
-#https://v2.sportsonline.si/channels/pt/eleven1.php  
-##EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="Eleven2.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Eleven_2.svg",ELEVEN SPORTS 2 FHD
-#https://v2.sportsonline.si/channels/pt/eleven2.php  
-##EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="Eleven3.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Eleven_3.svg",ELEVEN SPORTS 3 FHD
-#https://v2.sportsonline.si/channels/pt/eleven3.php  
-
-##EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="Eleven1.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Eleven_1.svg",ELEVEN SPORTS 1 FHD
-#https://v3.sportsonline.sx/channels/pt/eleven1.php
-##EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="Eleven2.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Eleven_2.svg",ELEVEN SPORTS 2 FHD
-#https://v3.sportsonline.sx/channels/pt/eleven2.php 
-##EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="Eleven3.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Eleven_3.svg",ELEVEN SPORTS 3 FHD
-#https://v3.sportsonline.sx/channels/pt/eleven3.php
-
-##EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SLBHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/BTV_2014_SVG.svg",BENFICA TV FHD
-#https://sportsonline.si/channels/pt/btv.php
-##EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SLBHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/BTV_2014_SVG.svg",BENFICA TV FHD
-#https://v2.sportsonline.si/channels/pt/btv.php
-##EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SLBHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/BTV_2014_SVG.svg",BENFICA TV FHD
-#https://v3.sportsonline.sx/channels/pt/btv.php
-
-
-#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/myTimeMovie.webp",My Time Movie networkᴴᴰ 🇵🇹🇧🇷 🟤
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/myTimeMovie.webp",My Time Movie networkᴴᴰ 🇵🇹🇧🇷
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/myTimeMovie.webp",My Time Movie networkᴴᴰ 🇵🇹🇧🇷 🟤
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytymmovbrazil-vidaa/playlist.m3u8
-#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/MovieSphere.png",MovieSphereᴴᴰ 🇵🇹🇧🇷 🟤
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/MovieSphere.png",MovieSphereᴴᴰ 🇵🇹🇧🇷
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-moviesperebr-vidaa/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-logo="https://bravi.tv/wp-content/uploads/2016/12/europa-filmes-214x214.png",Europa Play Filmes Nacionaisᴴᴰ 🇧🇷
 https://cdn-2.nxplay.com.br/europaplay/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1  tvg-id="STAR.pt" group-title="Portugal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg",AXNᴴᴰ 🇵🇹
-http://50.7.137.106:8080/AXN/index.m3u8?token=test
+
 
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/RTL_L%C3%ABtzebuerg_%282023%29.svg",RTL FHD
 https://stream.rtl.lu/data/live/tele/channel1/1080p.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="STAR.pt" group-title="Portugal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Kurikos.png",KURIAKOSᴴᴰ 🇵🇹
 https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_w1622822785_b3048000_sleng.m3u8
-#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="STAR.pt" group-title="Portugal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Kurikos.png",KURIAKOSᴴᴰ 🇵🇹
-https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Rakuten_logo.svg",RAKUTEN TV Famíliaᴴᴰ 🇵🇹
+https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="zigzag.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Radio-zig-zag-destaque-1.jpg",Rádio ZIG ZAG
+https://streaming-live.rtp.pt/liveradio/zigzag80a/chunklist.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="ARTV.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ARTV.png",ARTVᴴᴰ
 https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨"  tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/fatima.png",Santuário de Fátimaᴴᴰ
 https://streamer-a01.videos.sapo.pt/live/santuario/chunklist.m3u8?wowzasessionid=inspiration
-
-#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-logo="https://imgur.com/3bvMvx2.png",Rakuten Famíliaᴴᴰ 🇵🇹 🟤
-https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="zigzag.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Radio-zig-zag-destaque-1.jpg",Rádio ZIG ZAG
-https://streaming-live.rtp.pt/liveradio/zigzag80a/chunklist.m3u8
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="RTP 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e7aeb547717f6e110c331e6aa4135d26.png" group-title="Portugal ➾ Geral",RTP 1
