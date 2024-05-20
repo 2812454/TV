@@ -1227,8 +1227,12 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/ch
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SICNovelas.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/SICNovelas.png",SIC Novelasᴴᴰ
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9ae705b449477523ec/channels/d9070446-8448-455e-8075-773b1ba12562/f083c6ea-33af-458e-82c5-f27f6b42f9ec/media_.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="TVIINT.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tviInternacional.png",TVI Internacional sᴅ
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="TVIINT.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tviInternacional.png",TVI Internacionalᴴᴰ 
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="TVIINT.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tviInternacional.png",TVI Internacionalᴴᴰ 
+https://video-auth6.iol.pt/edge_servers/tviinternacional-720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI0IDQ6MTc6NTUgUE0maGFzaF92YWx1ZT1RR2pqTG1XNVpCYmRiakRIMUI4YUtnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NjcwZjM3NTUtYmRhYy00NzdhLWEwZDUtNzdlZTEyNGJlYTY4
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="TVIINT.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tviInternacional.png",TVI Internacional SD 
+https://video-auth6.iol.pt/edge_servers/tviinternacional-480p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI0IDQ6MTc6NTUgUE0maGFzaF92YWx1ZT1RR2pqTG1XNVpCYmRiakRIMUI4YUtnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NjcwZjM3NTUtYmRhYy00NzdhLWEwZDUtNzdlZTEyNGJlYTY4
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="TVIFiccao.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tviFic%C3%A7%C3%A3o.png",TVI Ficçãoᴴᴰ
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="TVIReality.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tviReality.png",TVI Realityᴴᴰ
@@ -1245,7 +1249,7 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/MovieSphere.png",MovieSphereᴴᴰ 🇵🇹🇧🇷
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-moviesperebr-vidaa/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-logo="https://bravi.tv/wp-content/uploads/2016/12/europa-filmes-214x214.png",Europa Play Filmes Nacionaisᴴᴰ 🇧🇷
-https://cdn-2.nxplay.com.br/europaplay/tracks-v1a1/mono.m3u8
+https://cdn-1.nxplay.com.br/europaplay/tracks-v1a1/mono.m3u8
 
 
 
@@ -2707,47 +2711,52 @@ http://iptvtree.net:8080/one-day-test-89fc/54CbToqS2c/300365
 http://212.102.60.80/TF1/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨" tvg-id="tf1.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Logo_TF1%2B.svg",TF1+ HD
 http://45.153.35.210:8000/play/FR_tf1_HD/index.m3u8
-#EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨" tvg-id="France_2_HD.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/France_2_2018.svg",FRANCE 2 HD
+#EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨" tvg-id="France2.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/France_2_2018.svg",FRANCE 2 HD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$France_2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
-#EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨" tvg-id="France_3_HD.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/France_3_2018.svg",FRANCE 3 HD
+#EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨" tvg-id="France3.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/France_3_2018.svg",FRANCE 3 HD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$France_3_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
-#EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨" tvg-id="France_5_HD.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/France_5_2018.svg",FRANCE 5 HD
+#EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨" tvg-id="France5.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/France_5_2018.svg",FRANCE 5 HD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$France_5_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
 #EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨" tvg-id="M6.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/07b269a2ec8b80615d5461358fb74ef0fb794370/Logos/m6.svg",M6 HD
-https://bit.ly/42Vqbw6?profile=inspirationlivetv.m3u8
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$France_5_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$M6_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
 #EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨" tvg-id="M6.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/07b269a2ec8b80615d5461358fb74ef0fb794370/Logos/m6.svg",M6 2 HD
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨"  tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a9/6ter_2012.png",6TER HD
 http://144.217.72.24:80/6ter/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Logo_TFX_2018.jpg/800px-Logo_TFX_2018.jpg",TFX HD
 http://62.129.183.89:9981/stream/channelid/57664586
+#EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨" tvg-id="NRJ12.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/NRJ_12_logo_2015.svg",NRJ12 FHD
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/FHD.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨" tvg-id="NRJ12.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/NRJ_12_logo_2015.svg",NRJ12 HD
-https://raw.githubusercontent.com/2812454/TV/main/STREAM/NRJ12.m3u8
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/HD.m3u8
+#EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨" tvg-id="NRJ12.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/NRJ_12_logo_2015.svg",NRJ12 MD
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/MD.m3u8
+#EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨" tvg-id="NRJ12.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/NRJ_12_logo_2015.svg",NRJ12 SD
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/SD.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨"  tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/fd/Logo_LCP-AN_%282019%29.svg",LCP HD
 http://62.129.183.89:9981/stream/channelid/1233520955
 #EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨" tvg-id="ParisPremiere.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Paris_Premi%C3%A8re_2011.svg/1200px-Paris_Premi%C3%A8re_2011.svg.png",Paris Premiere HD
-https://github.com/2812454/TV/tree/main/STREAM/PaPremiere.m3u8
+https://origin2-6play.live.6cloud.fr/pool_rnpls9by/pp/sixplayhde/hls_short_fp10_pp/NA/vZNA6hM/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨" tvg-id="ParisPremiere.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Paris_Premi%C3%A8re_2011.svg/1200px-Paris_Premi%C3%A8re_2011.svg.png",Paris Premiere HD
-https://raw.githubusercontent.com/2812454/TV/main/STREAM/PP.m3u8
+https://origin2-6play.live.6cloud.fr/pool_rnpls9by/pp/sixplayhde/hls_short_fp10_pp/NA/aVWvbjp/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨" tvg-id="Teva.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4d/Logo_T%C3%A9va_HD.svg",Téva HD
-https://raw.githubusercontent.com/2812454/TV/main/STREAM/TEVA.m3u8
+https://origin2-6play.live.6cloud.fr/pool_rnpls9by/teva/sixplayhde/hls_short_fp10_teva/NA/aVWvbjp/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨"  tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/RTLlPlay.webp",RTL Play HD
-https://github.com/2812454/TV/tree/main/STREAM/RTLPlay.m3u8
+https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/rtlplay/rtlbehde/hls_short_fp10_rtlplay/NA/vwY8N2N/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/RTL-TVI_Logo_2023.svg/1024px-RTL-TVI_Logo_2023.svg.png",RTL TVi HD
-https://github.com/2812454/TV/tree/main/STREAM/RTLTvi.m3u8
+https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/rtltvi/rtlbehde/hls_short_fp10_rtltvi/NA/vwY8N2N/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨"  tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/RTLClub.png",RTL Club HD
-https://github.com/2812454/TV/tree/main/STREAM/RTLClub.m3u8
+https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/clubrtl/rtlbehde/hls_short_fp10_clubrtl/NA/vwY8N2N/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Plug_RTL_logo.svg/1200px-Plug_RTL_logo.svg.png",RTL Plug HD
-https://github.com/2812454/TV/tree/main/STREAM/RTLPlag.m3u8
+https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/plugrtl/rtlbehde/hls_short_fp10_plugrtl/NA/vwY8N2N/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨"  tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9d/Bel-rtl-2023.svg",RTL bel HD
-https://github.com/2812454/TV/tree/main/STREAM/RTLbel.m3u8
+https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/belrtl/rtlbehde/hls_short_fp10_belrtl/NA/vwY8N2N/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨"  tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9d/Bel-rtl-2023.svg",RTL bel HD
 https://raw.githubusercontent.com/2812454/TV/main/STREAM/RTL-BEL-2.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨" tvg-id="MuseumTVFrench.fr"  tvg-logo="https://www.museumtv.art/wp-content/uploads/2021/09/cropped-apple-touch-icon-180x180.png",Museum TV HD
 https://raw.githubusercontent.com/2812454/TV/main/STREAM/MuseumTV.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨"  tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/InfoSport.png",InfoSport HD
-https://raw.githubusercontent.com/2812454/TV/main/STREAM/InfoSport.m3u8
+http://212.102.60.80/Infosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨"  tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tvmonaco.jpg",TV Monaco HD
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/2025/media.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨"  tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/monacoinfo.jpg",Monaco Info HD
