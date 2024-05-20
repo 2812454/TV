@@ -26,6 +26,8 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$RT
 
 #EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="sicradical.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/SIC_Radical_2011.svg",SIC RADICAL FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SIC_Radical_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="SICMulher.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/SIC_Mulher_2023.svg",SIC MULHER FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SIC_Mulher_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
 #EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="siccaras.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/SIC_Caras.svg",SIC CARAS FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SIC_Caras_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
 
@@ -419,6 +421,8 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$RT
 
 #EXTINF:-1 group-title="✨MEO HD✨" tvg-id="sicradical.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/SIC_Radical_2011.svg",SIC RADICAL HD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SIC_Radical_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
+#EXTINF:-1 group-title="✨MEO HD✨" tvg-id="SICMulher.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/SIC_Mulher_2023.svg",SIC MULHER HD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SIC_Mulher_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
 #EXTINF:-1 group-title="✨MEO HD✨" tvg-id="siccaras.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/SIC_Caras.svg",SIC CARAS HD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SIC_Caras_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
 
@@ -807,6 +811,8 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$RT
 
 #EXTINF:-1 group-title="✨MEO SD✨" tvg-id="sicradical.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/SIC_Radical_2011.svg",SIC RADICAL SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SIC_Radical_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+#EXTINF:-1 group-title="✨MEO SD✨" tvg-id="SICMulher.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/SIC_Mulher_2023.svg",SIC MULHER SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SIC_Mulher_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
 #EXTINF:-1 group-title="✨MEO SD✨" tvg-id="siccaras.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/SIC_Caras.svg",SIC CARAS SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SIC_Caras_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
 
