@@ -129,11 +129,11 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Di
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Discovery_Channel_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
 #EXTINF:-1 group-title="✨MEO SD✨" tvg-id="HISTHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Historia_2022_Spain.png",HISTORIA SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Historia_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
-#EXTINF:-1 group-title="✨MEO SD✨" tvg-id="odiseeia.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Odisseia_2016.svg",ODISSEIA SD
+#EXTINF:-1 group-title="✨MEO SD✨" tvg-id="ODISSHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Odisseia_2016.svg",ODISSEIA SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Odisseia_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
-#EXTINF:-1 group-title="✨MEO SD✨" tvg-id="nationalgeographic.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg",NATIONAL GEOGRAPHIC SD
+#EXTINF:-1 group-title="✨MEO SD✨" tvg-id="NGHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg",NATIONAL GEOGRAPHIC SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$National_Geographic_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
-#EXTINF:-1 group-title="✨MEO SD✨" tvg-id="nationalgeographicwild.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/National_Geographic_Wild_2018.svg",NATIONAL GEOGRAPHIC WILD SD
+#EXTINF:-1 group-title="✨MEO SD✨" tvg-id="WILDHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/National_Geographic_Wild_2018.svg",NATIONAL GEOGRAPHIC WILD SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Nat_Geo_Wild_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
 #EXTINF:-1 group-title="✨MEO SD✨" tvg-id="AMCCRI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/C%26I_logo.svg",CRIME INVESTIGATION SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Crime_Investigation_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
@@ -224,7 +224,7 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Sa
 
 #EXTINF:-1 group-title="✨MEO SD✨" tvg-id="ARTV.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ARTV_2011.svg",AR TV SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$AR_TV/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
-#EXTINF:-1 group-title="✨MEO SD✨" tvg-id="travel.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Travelxp-01.svg",TRAVELxp SD
+#EXTINF:-1 group-title="✨MEO SD✨" tvg-id="TRAXP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Travelxp-01.svg",TRAVELxp SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Travelxp_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
 #EXTINF:-1 group-title="✨MEO SD✨" tvg-id="LVTVHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Localvis%C3%A3o_TV.svg",LOCALVISAO TV SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Localvisao_TV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
