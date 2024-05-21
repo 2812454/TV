@@ -2709,8 +2709,6 @@ http://iptvtree.net:8080/one-day-test-89fc/54CbToqS2c/300365
 
 #EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨" tvg-id="tf1.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/TF1_2013.svg",TF1 HD
 http://212.102.60.80/TF1/index.m3u8
-#EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨" tvg-id="tf1.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Logo_TF1%2B.svg",TF1+ HD
-http://45.153.35.210:8000/play/FR_tf1_HD/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨" tvg-id="France2.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/France_2_2018.svg",FRANCE 2 HD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$France_2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
 #EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨" tvg-id="France3.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/France_3_2018.svg",FRANCE 3 HD
@@ -2719,10 +2717,6 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Fr
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$France_5_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
 #EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨" tvg-id="M6.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/07b269a2ec8b80615d5461358fb74ef0fb794370/Logos/m6.svg",M6 HD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$M6_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
-#EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨" tvg-id="M6.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/07b269a2ec8b80615d5461358fb74ef0fb794370/Logos/m6.svg",M6 2 HD
-https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
-#EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨"  tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a9/6ter_2012.png",6TER HD
-http://144.217.72.24:80/6ter/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Logo_TFX_2018.jpg/800px-Logo_TFX_2018.jpg",TFX HD
 http://62.129.183.89:9981/stream/channelid/57664586
 #EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨" tvg-id="NRJ12.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/NRJ_12_logo_2015.svg",NRJ12 FHD
@@ -2737,12 +2731,6 @@ https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/SD.m3u8
 http://62.129.183.89:9981/stream/channelid/1233520955
 #EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨" tvg-id="ParisPremiere.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Paris_Premi%C3%A8re_2011.svg/1200px-Paris_Premi%C3%A8re_2011.svg.png",Paris Premiere HD
 https://origin2-6play.live.6cloud.fr/pool_rnpls9by/pp/sixplayhde/hls_short_fp10_pp/NA/vZNA6hM/index.m3u8
-#EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨" tvg-id="ParisPremiere.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Paris_Premi%C3%A8re_2011.svg/1200px-Paris_Premi%C3%A8re_2011.svg.png",Paris Premiere HD
-https://origin2-6play.live.6cloud.fr/pool_rnpls9by/pp/sixplayhde/hls_short_fp10_pp/NA/aVWvbjp/index.m3u8
-#EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨" tvg-id="Teva.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4d/Logo_T%C3%A9va_HD.svg",Téva HD
-https://origin2-6play.live.6cloud.fr/pool_rnpls9by/teva/sixplayhde/hls_short_fp10_teva/NA/aVWvbjp/index.m3u8
-#EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨"  tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/RTLlPlay.webp",RTL Play HD
-https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/rtlplay/rtlbehde/hls_short_fp10_rtlplay/NA/vwY8N2N/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/RTL-TVI_Logo_2023.svg/1024px-RTL-TVI_Logo_2023.svg.png",RTL TVi HD
 https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/rtltvi/rtlbehde/hls_short_fp10_rtltvi/NA/vwY8N2N/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨"  tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/RTLClub.png",RTL Club HD
@@ -2751,38 +2739,18 @@ https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/clubrtl/rtlbehde/hls_short_fp
 https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/plugrtl/rtlbehde/hls_short_fp10_plugrtl/NA/vwY8N2N/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨"  tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9d/Bel-rtl-2023.svg",RTL bel HD
 https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/belrtl/rtlbehde/hls_short_fp10_belrtl/NA/vwY8N2N/index.m3u8
-#EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨"  tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9d/Bel-rtl-2023.svg",RTL bel HD
-https://raw.githubusercontent.com/2812454/TV/main/STREAM/RTL-BEL-2.m3u8
-#EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨" tvg-id="MuseumTVFrench.fr"  tvg-logo="https://www.museumtv.art/wp-content/uploads/2021/09/cropped-apple-touch-icon-180x180.png",Museum TV HD
-https://raw.githubusercontent.com/2812454/TV/main/STREAM/MuseumTV.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨"  tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/InfoSport.png",InfoSport HD
 http://212.102.60.80/Infosport/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨"  tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tvmonaco.jpg",TV Monaco HD
-https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/2025/media.m3u8
-#EXTINF:-1 group-title="TV ABERTA - ✨FRANÇA✨"  tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/monacoinfo.jpg",Monaco Info HD
-https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
 
 # 🔰 TV ABERTA - ✨BRASIL✨ 🔰
 
 
 
-#EXTINF:-1 group-title="TV ABERTA - ✨BRASIL✨"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Globo2021_var_blue.svg",Globoᴴᴰ
-http://cdn-1.nxplay.com.br/TV_TEM_TK/index.m3u8
-#EXTINF:-1 group-title="TV ABERTA - ✨BRASIL✨"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Globo2021_var_blue.svg",Globo 2ᴴᴰ
-https://8mwx.short.gy/RPCPR/index.m3u8
-#EXTINF:-1 group-title="TV ABERTA - ✨BRASIL✨"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Globo2021_var_blue.svg",Globo 3ᴴᴰ
-https://cr7v.short.gy/manoiptv/REDEBA/Index.m3u8
-#EXTINF:-1 group-title="TV ABERTA - ✨BRASIL✨"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Globo2021_var_blue.svg",Globo 4ᴴᴰ
-http://globo.xphost18.xyz:2052/JgfgjjbcfyyDFD/678888yygfFFD/15
 
 #EXTINF:-1 group-title="TV ABERTA - ✨BRASIL✨"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Globo2021_var_blue.svg",Globo SPᴴᴰ
-https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
-#EXTINF:-1 group-title="TV ABERTA - ✨BRASIL✨"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Globo2021_var_blue.svg",Globo SP2ᴴᴰ
 http://hls1.sua.tv:80/live/globosphd/s.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨BRASIL✨"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Record_2023_with_wordmark.png",Recordᴴᴰ
 https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TV ABERTA - ✨BRASIL✨"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/SporTV_2021.svg",SPORTVᴴᴰ
-http://209.222.97.92:16525
 
 #EXTINF:-1 group-title="TV ABERTA - ✨BRASIL✨"  tvg-logo="https://conteudo.imguol.com.br/c/play/logo_canaluol.svg",Canal UOLᴴᴰ
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-07et6wc1z29gv/index.m3u8
@@ -2803,8 +2771,6 @@ https://bit.ly/429JSAQ?profile=inspirationlivetv.m3u8
 https://bit.ly/3SkIV58?profile=inspirationlivetv.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨BRASIL✨" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8430bfd1-b119-4f3d-8992-8921cad397e2/dark_matter_tv_logo_dark.png",Dark Matterᴴᴰ
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_darkmatter_002.m3u8
-#EXTINF:-1 group-title="TV ABERTA - ✨BRASIL✨" tvg-id="cc-9flatd4lam6vc"tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/homefull.png",HomeFulᴴᴰ
-https://cc-9flatd4lam6vc.akamaized.net/5.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA - ✨BRASIL✨" tvg-id="61bb72a7bf8c520007a8fd27"tvg-logo="https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png",Pronto Socorroᴴᴰ
 https://bit.ly/42QJRSy?profile=inspirationlivetv.m3u8
@@ -2832,20 +2798,16 @@ https://bit.ly/masterchefBR?profile=inspirationlivetv.m3u8
 https://dh6vo1bovy43s.cloudfront.net/La_1_ES.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨ESPANHA✨"tvg-id="La2.TV" tvg-name="" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/la%202.png",La 2ᴴᴰ
 https://di2qeq48iv8ps.cloudfront.net/La_2_ES.m3u8
-#EXTINF:-1 group-title="TV ABERTA - ✨ESPANHA✨" tvg-id="LaOtra.TV" tvg-name="" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/La%20Otra.png",La Otra sᴅ
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:3_HD.smil/manifest.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA - ✨ESPANHA✨" tvg-logo="https://i.ibb.co/fqg1vfr/24h.png",TVE 24 H
 https://d3pfmk89wc0vm9.cloudfront.net/24H_ES.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨ESPANHA✨" tvg-logo="https://i.ibb.co/D1Djbfj/tdp.jpg",TVE TDP
 https://d2a02gfcid1k4a.cloudfront.net/Teledeporte_ES.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨ESPANHA✨" tvg-logo="https://i.ibb.co/BGy5vM5/clan.jpg",TVE CLAN
 https://d3nnqrdb77sy13.cloudfront.net/Clan_ES.m3u8
-#EXTINF:-1 group-title="TV ABERTA - ✨ESPANHA✨" tvg-name="TVGAL.TV" tvg-id="tvgalicia.tv.vodafone.pt" tvg-logo="https://sck.pm/sc9k",Galicia Europaᴴᴰ
-http://europa-crtvg.flumotion.com:80/crtvg/europa_high/chunks.m3u8?wowzasessionid=inspiration
-#EXTINF:-1 group-title="TV ABERTA - ✨ESPANHA✨" tvg-id="tvgalicia.tv.vodafone.pt" tvg-logo="https://sck.pm/sc9k",Galicia Americaᴴᴰ
-http://america-crtvg.flumotion.com:80/crtvg/america_high/chunks.m3u8?wowzasessionid=inspiration
 #EXTINF:-1 group-title="TV ABERTA - ✨ESPANHA✨" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/trailertv.png",Trailersᴴᴰ
 https://bit.ly/3WChqoj?/chunklist_b1290000_slpt.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA - ✨ESPANHA✨"  tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/A3Player.png",A3Player Multicineᴴᴰ
 https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc/1.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨ESPANHA✨" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/A3Player.png",A3Player Clasicosᴴᴰ
@@ -2856,6 +2818,8 @@ https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e455
 https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨ESPANHA✨"  tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/A3Player.png",A3Player Equipo Investigacionᴴᴰ
 https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc/1.m3u8
+
+
 #EXTINF:-1 group-title="TV ABERTA - ✨ESPANHA✨" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/CGTN%20Espa%C3%B1ol.png",CGTN Espanhol sᴅ
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨ESPANHA✨" tvg-id="AragonTV.TV" tvg-name="" tvg-logo="http://www.aragontelevision.es/logos/apple-touch-icon.png",Aragon tv Internacionalᴴᴰ
@@ -2870,30 +2834,16 @@ https://streaming005.gestec-video.com/hls/canal24.m3u8
 https://multimedia.eitb.eus/live-content/etb1hd-hls/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨ESPANHA✨" tvg-id="ETB 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/ETB2_Spain.svg",ETB 2
 https://multimedia.eitb.eus/live-content/etb2hd-hls/index.m3u8
-#EXTINF:-1 group-title="TV ABERTA - ✨ESPANHA✨" tvg-id="Telemadrid.TV" tvg-name="" tvg-logo="https://www.telemadrid.es/static/BB3HTML/app/images/logos/logo.png?hash=dcdede14b767968b29028761f31fe79e",TeleMadrid Internacional
-https://new-international-23.secure2.footprint.net/index.m3u8
-#EXTINF:-1 group-title="TV ABERTA - ✨ESPANHA✨" tvg-id="Canarias.TV" tvg-name="" tvg-logo="https://rtvc.es/archivos/2021/03/RTVC272.png",Televisión Canariaᴴᴰ ▶️
+
+#EXTINF:-1 group-title="TV ABERTA - ✨ESPANHA✨" tvg-id="Canarias.TV" tvg-name="" tvg-logo="https://rtvc.es/archivos/2021/03/RTVC272.png",Televisión Canariaᴴᴰ
 https://ythls.armelin.one/video/6LlZXt8nk4s.m3u8
-#EXTINF:-1 group-title="TV ABERTA - ✨ESPANHA✨" tvg-id="CanalSurA.TV" tvg-name="" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Telesur.png",Canal Surᴴᴰ
-https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/chunklist_b2200000.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA - ✨ESPANHA✨" tvg-id="Telesur.ve"  tvg-logo="https://i.imgur.com/P50VjRX.png",TeleSurᴴᴰ
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 group-title="TV ABERTA - ✨ESPANHA✨" tvg-id="Telesur.ve"  tvg-logo="https://i.imgur.com/P50VjRX.png",TeleSurᴴᴰ
+#EXTINF:-1 group-title="TV ABERTA - ✨ESPANHA✨" tvg-id="Telesur.ve"  tvg-logo="https://i.imgur.com/P50VjRX.png",TeleSur Interᴴᴰ
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨ESPANHA✨"  tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/mundonautica.png",Mundo Náuticaᴴᴰ
 https://cloud.fastchannel.es/mic/manifiest/hls/mundonautica/mundonautica.m3u8
-
-
-#EXTINF:-1 group-title="TV ABERTA - ✨ENGLISH✨",Sony TEN 1 HD 
-https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8 
-#EXTINF:-1 group-title="TV ABERTA - ✨ENGLISH✨",Sony TEN 2 HD 
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8 
-#EXTINF:-1 group-title="TV ABERTA - ✨ENGLISH✨",Sony TEN 3 HD 
-https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8 
-#EXTINF:-1 group-title="TV ABERTA - ✨ENGLISH✨",Sony TEN 4 HD 
-https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8 
-#EXTINF:-1 group-title="TV ABERTA - ✨ENGLISH✨",Sony TEN 5 HD 
-https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
 # 🔰 +18🔞 🔰 
 #EXTINF:-1 group-title="+18🔞" tvg-name="Live Cams" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Live Cams
