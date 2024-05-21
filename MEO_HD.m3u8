@@ -362,16 +362,16 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$St
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Star_Family_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
 
 
-#EXTINF:-1 group-title="✨MEO HD✨" tvg-id="Rai1.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Rai_1_2016.svg",RAI 1 HD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_1/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
-#EXTINF:-1 group-title="✨MEO HD✨" tvg-id="Rai2.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Rai_2_2016.svg",RAI 2 HD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_2/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
-#EXTINF:-1 group-title="✨MEO HD✨" tvg-id="Rai3.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Rai_3_2016.svg",RAI 3 HD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_3/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
-#EXTINF:-1 group-title="✨MEO HD✨" tvg-id="RaiScuola.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Rai_Scuola_New_Logo.svg", RAI Scuola HD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_Scuola/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
-#EXTINF:-1 group-title="✨MEO HD✨" tvg-id="RaiStoria.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Rai_Storia_New_Logo.svg", RAI Storia HD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_Storia/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
+#EXTINF:-1 group-title="✨MEO HD✨" tvg-id="Rai1.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Rai_1_2016.svg",RAI 1 SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_1/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+#EXTINF:-1 group-title="✨MEO HD✨" tvg-id="Rai2.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Rai_2_2016.svg",RAI 2 SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_2/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+#EXTINF:-1 group-title="✨MEO HD✨" tvg-id="Rai3.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Rai_3_2016.svg",RAI 3 SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_3/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+#EXTINF:-1 group-title="✨MEO HD✨" tvg-id="RaiScuola.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Rai_Scuola_New_Logo.svg", RAI Scuola SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_Scuola/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
+#EXTINF:-1 group-title="✨MEO HD✨" tvg-id="RaiStoria.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Rai_Storia_New_Logo.svg", RAI Storia SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_Storia/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
 #EXTINF:-1 group-title="✨MEO HD✨" tvg-id="RaiNews24.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Rai_News_new_logo.svg", RAI News 24 SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_News/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)
 
