@@ -1181,13 +1181,13 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SE
 # 🔰 TV ABERTA - ✨PORTUGAL✨ 🔰
 
 
-#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="RTP1.pt" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP1_positivo_horiz_RGB.png",RTP 1ᴴᴰ
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="RTP1.pt" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP1_positivo_horiz_RGB.png",RTP 1ᴴᴰ GEOBLOCK🇵🇹 
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="RTP1.pt" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP1_positivo_horiz_RGB.png",RTP 1
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="RTP1.pt" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP1_positivo_horiz_RGB.png",RTP 1 GEOBLOCK🇵🇹 
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8
-#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="RTP2.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/RTP2_logo_2016.png",RTP 2ᴴᴰ
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="RTP2.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/RTP2_logo_2016.png",RTP 2ᴴᴰ GEOBLOCK🇵🇹 
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
-#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="RTP2.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/RTP2_logo_2016.png",RTP 2
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="RTP2.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/RTP2_logo_2016.png",RTP 2 GEOBLOCK🇵🇹 
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SIC.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/sic.webp",SICᴴᴰ
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
@@ -1196,9 +1196,7 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="SIC.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/sic.webp",SICᴴᴰ
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="TVI.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tvi.png",TVIᴴᴰ
-https://video-auth6.iol.pt/edge_servers/tvi-720_passthrough/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDI0IDQ6MTY6NDUgUE0maGFzaF92YWx1ZT0reER0Z3ZQb0EyZEhIeWJiL0JPM3ZBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MTgyMDg1NWEtNWYzNC00OGMzLTg5MjUtMzYwMzU3MWNhYjU3
-
-
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="CNNPORTUGAL.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg",CNN PORTUGAL
 https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="sicnoticias.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/SIC_Not%C3%ADcias_2023.svg",SIC NOTICIAS
@@ -1235,10 +1233,6 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9ae705b449477523ec/ch
 
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="TVIINT.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tviInternacional.png",TVI Internacionalᴴᴰ 
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
-#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="TVIINT.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tviInternacional.png",TVI Internacionalᴴᴰ 
-https://video-auth6.iol.pt/edge_servers/tviinternacional-720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI0IDQ6MTc6NTUgUE0maGFzaF92YWx1ZT1RR2pqTG1XNVpCYmRiakRIMUI4YUtnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NjcwZjM3NTUtYmRhYy00NzdhLWEwZDUtNzdlZTEyNGJlYTY4
-#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="TVIINT.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tviInternacional.png",TVI Internacional SD 
-https://video-auth6.iol.pt/edge_servers/tviinternacional-480p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI0IDQ6MTc6NTUgUE0maGFzaF92YWx1ZT1RR2pqTG1XNVpCYmRiakRIMUI4YUtnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NjcwZjM3NTUtYmRhYy00NzdhLWEwZDUtNzdlZTEyNGJlYTY4
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="TVIFiccao.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tviFic%C3%A7%C3%A3o.png",TVI Ficçãoᴴᴰ
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="TVIReality.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tviReality.png",TVI Realityᴴᴰ
@@ -1319,12 +1313,6 @@ http://50.7.137.106:8080/EUROSPORT/index.m3u8?token=LIVETV
 http://50.7.137.106:8080/EUROSPORT_2/index.m3u8?token=LIVETV
 
 
-
-
-
-
-
-
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="AXNHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg",AXN SD
 http://50.7.137.106:8080/AXN/index.m3u8?token=LIVETV
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="syfy.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Syfy_%282017%29_%28Stacked%29.svg/revision/latest?cb=20210104111407",SYFY FHD
@@ -1333,15 +1321,6 @@ http://50.7.137.106:8080/SYFY/index.m3u8?token=LIVETV
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="amc.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/AMC_%282019%29_%28White%29.svg",AMC HD
 http://50.7.137.106:8080/AMC/index.m3u8?token=LIVETV
 
-#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="CanalPanda.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Canal_Panda_%282015%2C_stacked%29.svg",CANAL PANDA
-http://50.7.137.106:8080/PANDA/index.m3u8?token=LIVETV
-#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="Biggs.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Biggs_2023_Logo_%28Green%29.svg",BIGGS
-http://50.7.137.106:8080/PANDA_BIGGS/index.m3u8?token=LIVETV
-#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="Nickelodeon.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Nickelodeon_Splat_2023_II.png",NICKELODEON
-http://50.7.137.106:8080/NICKELODEON/index.m3u8?token=LIVETV
-
-#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="MTVPHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/MTV-2021.svg",MTV FHD
-http://50.7.137.106:8080/MTV/index.m3u8?token=LIVETV
 
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/myTimeMovie.webp",My Time Movie networkᴴᴰ 🇵🇹🇧🇷
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
@@ -1396,20 +1375,32 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 
 
 
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="MTVPHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/MTV-2021.svg",MTV FHD
+http://50.7.137.106:8080/MTV/index.m3u8?token=LIVETV
 
+
+
+
+
+
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="CanalPanda.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Canal_Panda_%282015%2C_stacked%29.svg",CANAL PANDA
+http://50.7.137.106:8080/PANDA/index.m3u8?token=LIVETV
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="Biggs.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Biggs_2023_Logo_%28Green%29.svg",BIGGS
+http://50.7.137.106:8080/PANDA_BIGGS/index.m3u8?token=LIVETV
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="Nickelodeon.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Nickelodeon_Splat_2023_II.png",NICKELODEON
+http://50.7.137.106:8080/NICKELODEON/index.m3u8?token=LIVETVstatic.wikia.nocookie.net/logopedia/images/3/33/Kurikos.png",KURIAKOSᴴᴰ 🇵🇹
+https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_w1622822785_b3048000_sleng.m3u8
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Rakuten_logo.svg",RAKUTEN TV Famíliaᴴᴰ 🇵🇹
+https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/RTL_L%C3%ABtzebuerg_%282023%29.svg",RTL FHD
 https://stream.rtl.lu/data/live/tele/channel1/1080p.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="STAR.pt" group-title="Portugal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Kurikos.png",KURIAKOSᴴᴰ 🇵🇹
-https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_w1622822785_b3048000_sleng.m3u8
-#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Rakuten_logo.svg",RAKUTEN TV Famíliaᴴᴰ 🇵🇹
-https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="zigzag.pt" tvg-logo="https://cdn-images.rtp.pt/play/zigzag/imgs/zz_logowhite.png",ZIG ZAGᴴᴰ
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="zigzag.pt" tvg-logo="https://cdn-images.rtp.pt/play/zigzag/imgs/zz_logowhite.png",ZIG ZAGᴴᴰ GEOBLOCK🇵🇹 
 https://streaming-live.rtp.pt/liverepeater/smilzigzagHD.smil/playlist.m3u8
-#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="zigzag.pt" tvg-logo="https://cdn-images.rtp.pt/play/zigzag/imgs/zz_logowhite.png",ZIG ZAG
+#EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="zigzag.pt" tvg-logo="https://cdn-images.rtp.pt/play/zigzag/imgs/zz_logowhite.png",ZIG ZAG GEOBLOCK🇵🇹 
 https://streaming-live.rtp.pt/liverepeater/smil:zigzag.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA - ✨PORTUGAL✨" tvg-id="zigzag.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Radio-zig-zag-destaque-1.jpg",Rádio ZIG ZAG
 https://streaming-live.rtp.pt/liveradio/zigzag80a/chunklist.m3u8
@@ -2991,12 +2982,9 @@ https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 https://cloud.fastchannel.es/mic/manifiest/hls/mundonautica/mundonautica.m3u8
 
 # 🔰 +18🔞 🔰 
-#EXTINF:-1 group-title="+18🔞"  tvg-logo="https://logos.fandom.com/wiki/File:Playboy_TV_Pink.svg",PLAYBOY
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 group-title="+18🔞"  tvg-logo="https://logos.fandom.com/wiki/File:Playboy_TV_Pink.svg",PLAYBOY
+
+#EXTINF:-1 group-title="+18🔞" tvg-id="Playboy.pt" tvg-logo="https://i.imgur.com/B3DMUM9.png",Playboy
 http://168.181.122.234:8000/play/a03u/index.m3u8
-
-
 #EXTINF:-1 group-title="+18🔞" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/brasileirinhasXXX.jpg",Casa da Brasileirinhas
 http://tvsbr.red:80/999180842/1077009/375861.ts
 #EXTINF:-1 group-title="+18🔞" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/brasileirinhasXXX.jpg",Brasileirinhas
@@ -3005,89 +2993,34 @@ http://axcserver.online:8080/le358atual/atuale359/134888
 http://764722470880771544.ofsix0405.xyz:80/play/mi111050/XAU4cS6KdjjX/771544.ts
 #EXTINF:-1 group-title="+18🔞" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/brasileirinhasXXX.jpg",Brasileirinhas ²
 http://346784334221771544.ofsix0405.xyz:80/live/vi77030/7Hv7qPTaKC4/771544.ts
-
-
-#EXTINF:-1 group-title="+18🔞" tvg-id="Playboy.pt" tvg-logo="https://i.imgur.com/B3DMUM9.png",Playboy tv
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 group-title="+18🔞" tvg-id="Playboy.pt" tvg-logo="https://i.imgur.com/B3DMUM9.png",Playboy tv
-http://168.181.122.234:8000/play/a03u/index.m3u8
-
-
-#EXTINF:-1 group-title="+18🔞" tvg-id="venus.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Canal_Venus_logo.svg",Venus tv 🇦🇷
-http://186.148.183.242:5800/play/a0gi/index.m3u8
-#EXTINF:-1 group-title="+18🔞" tvg-id="venus.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Canal_Venus_logo.svg",Venus tv 🇦🇷
+#EXTINF:-1 group-title="+18🔞" tvg-id="venus.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Canal_Venus_logo.svg",Venus
 http://168.181.122.234:8000/play/a027/index.m3u8
-
-#EXTINF:-1 group-title="+18🔞" tvg-id="venus.pt" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2012/05/Hot-logo.png",HOT tv
+#EXTINF:-1 group-title="+18🔞" tvg-id="venus.pt" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2012/05/Hot-logo.png",HOT
 http://paradyse.xyz:8880/live/E3HUMXXswQ7X9/cWTM9PbFCVQC7/147.m3u8
-
-
-#EXTINF:-1 group-title="+18🔞" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png",SexTreme
-http://157.245.117.238:8000/play/a0u0/index.m3u8
-
-
 #EXTINF:-1 group-title="+18🔞" tvg-id="PenthouseHD1.ero" tvg-logo="https://epgx.site/p/penthouse-gold.png",Penthouse Gold
 http://78.130.250.2:8023/play/a005/index.m3u8
 #EXTINF:-1 group-title="+18🔞" tvg-id="PenthouseHD1.ero" tvg-logo="https://epgx.site/p/penthouse-gold.png",Penthouse
 https://live.iptvxxx.net/penthousepassiontv.m3u8
-
-#EXTINF:-1 group-title="+18🔞" tvg-logo="https://epgx.site/p/penthouse-gold.png",Penthouse Reality TV
-http://146.59.54.163/353/index.m3u8
-
 #EXTINF:-1 group-title="+18🔞" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/vivid-red-hd.png",Vivid Red 
 http://168.119.255.170/709/video.m3u8?token=M4f082ab4c
-#EXTINF:-1 group-title="+18🔞" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/vividred.png",Vivid tv
-http://146.59.54.163/361/index.m3u8
-
-#EXTINF:-1 group-title="+18🔞" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c5e417c0490797f22541997/f079cf7e-d3d0-4d5b-85ab-364f785b19a8/VMG_LOGO1copy.png",🔞 Vixen
+#EXTINF:-1 group-title="+18🔞" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c5e417c0490797f22541997/f079cf7e-d3d0-4d5b-85ab-364f785b19a8/VMG_LOGO1copy.png",Vixen
 http://78.130.250.2:8023/play/a031/index.m3u8
-#EXTINF:-1 group-title="+18🔞" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Barely%20legal.png",Barely Legal
-http://83.234.207.29:8001/playlist.m3u8
-
 #EXTINF:-1 group-title="+18🔞" tvg-logo="https://en.satservice.co.uk/wp-content/uploads/2019/04/Red-Light-HD-630x355.png",Redlight
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:157_HD.smil/index.m3u8
-#EXTINF:-1 group-title="+18🔞" tvg-logo="https://en.satservice.co.uk/wp-content/uploads/2019/04/Red-Light-HD-630x355.png",Redlight
-http://146.59.54.163/358/index.m3u8
-
-
 #EXTINF:-1 group-title="+18🔞" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Brazzers%20TV%20Europe.png",Brazzers
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="+18🔞" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Brazzers%20TV%20Europe.png",Brazzers TV Europe
-http://88.135.128.20:7272/OdHoeZOoqVgnMrM
-
-
-#EXTINF:-1 group-title="+18🔞" tvg-logo="https://www.pasjatv.pl/files/tv/photo/max/152302558372_logo_privatetvhd_ok1.png",Private
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:156_HD.smil/manifest.m3u8
-#EXTINF:-1 group-title="+18🔞" tvg-logo="https://www.pasjatv.pl/files/tv/photo/max/152302558372_logo_privatetvhd_ok1.png",Private
-http://146.59.54.163/356/playlist.m3u8
-
-
-#EXTINF:-1 group-title="+18🔞" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Hustler%20TV.png",Hustler 
-http://146.59.54.163/349/index.m3u8
-
-
-#EXTINF:-1 group-title="+18🔞" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Hustler%20TV.png",Hustler HD
-http://146.59.54.163/348/index.m3u8
-#EXTINF:-1 group-title="+18🔞" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Hustler%20TV.png",Hustler HD
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:155_HD.smil/playlist.m3u8
 #EXTINF:-1 group-title="+18🔞" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Hustler%20TV.png",Hustler HD
 https://live.iptvxxx.net/hustlertv.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Dorcel_TV.svg",Dorcel tv
+#EXTINF:-1 group-title="+18🔞" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Dorcel_TV.svg",Dorcel tv
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
-
-
 #EXTINF:-1 group-title="+18🔞" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Erox_%282013%29.svg",Erox HD
 http://178.219.128.68:64888/EROXHD
 #EXTINF:-1 group-title="+18🔞" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Eroxxx_HD_%282013%29.svg",Eroxxx
 http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-
 #EXTINF:-1 group-title="+18🔞" tvg-logo="https://www.ifcmedia.sk/wp-content/uploads/2021/03/exstasy-2.png",Extasy
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="+18🔞" tvg-logo="https://q7c8w5q6.rocketcdn.me/wp-content/uploads/2016/09/logo-desire-sm.jpg",Desire tv
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-
 #EXTINF:-1 group-title="+18🔞" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/xyplus.png",XY Plus
 http://stream.queerhd.com:4444/live/evolved/playlist.m3u8
 
