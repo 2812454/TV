@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-meo-pt.xml.gz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-nos-pt.xml.gz,https://helmerluzo.github.io/CanelaTV_HL/epg/CanelaTV.xml.gz,https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz,https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/Plex/all.xml" m3uautoload="1" refresh="24"
+#EXTM3U url-tvg="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-meo-pt.xml.gz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-nos-pt.xml.gz,https://helmerluzo.github.io/CanelaTV_HL/epg/CanelaTV.xml.gz,https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz,https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz,https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/Plex/all.xml" m3uautoload="1" refresh="24"
 # 🔰 ✨MEO FHD✨ 🔰
 #EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="DEST" tvg-logo="https://www.meo.pt/PublishingImages/paginas/cartoon-network/cartoon-network-premium-adira-tv-meo-secundario.webp",MEO FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$MEO_Destaques_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)
@@ -1477,6 +1477,50 @@ https://daiconnect.com/live/hls/tvup/rk-elpais/.m3u8?ads_amznbrmid=&ads_amznregi
 #EXTINF:-1 tvg-id="the-guardian" tvg-name="the-guardian" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/249bede2-0a10-477d-82d4-d74511b2ad08-the-guardian-1642407848.jpeg" group-title="RAKUTEN TV - ✨ESPANHA✨" , The Guardian
 https://d73fb24db4524ddca65ec4935761d3ef.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TheGuardianChannel/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3982&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=ac046412-7829-4fa1-a82c-2d73f0625b9a&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1034
 
+
+# 🔰 RUNTIME TV - ✨ESPANHA✨ 🔰
+#EXTINF:-1 tvg-id="runtime-4" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_es_1920x1080_0.jpg" group-title="RUNTIME TV - ✨ESPANHA✨" , Runtime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
+#EXTINF:-1 tvg-id="mytime-movie-network" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg" group-title="RUNTIME TV - ✨ESPANHA✨" , MyTime Movie Network
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=37.120.142.231
+#EXTINF:-1 tvg-id="cines-verdi" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/04082023_logo_verdi_tv_fila_canales_1920x1080.jpg" group-title="RUNTIME TV - ✨ESPANHA✨" , Cines Verdi
+https://daiconnect.com/live/hls/tvup/rt-cv/.m3u8?DAdID={{DEVICE_ID}}
+#EXTINF:-1 tvg-id="runtime-accion-0" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_accion_16x9.jpg" group-title="RUNTIME TV - ✨ESPANHA✨" , Runtime Acción
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6125
+#EXTINF:-1 tvg-id="feelgood" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/logo_feel_good_fila_canales_1920x1080.jpg" group-title="RUNTIME TV - ✨ESPANHA✨" , FeelGood
+https://daiconnect.com/live/hls/tvup/rt-fg/.m3u8?DAdID={{DEVICE_ID}}
+#EXTINF:-1 tvg-id="runtime-romance" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_romance_16x9.jpg" group-title="RUNTIME TV - ✨ESPANHA✨" , Runtime Romance
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3056
+#EXTINF:-1 tvg-id="runtime-comedia-1" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_comedia_16x9.jpg" group-title="RUNTIME TV - ✨ESPANHA✨" , Runtime Comedia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6131
+#EXTINF:-1 tvg-id="runtime-thriller" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_thriller_16x9.jpg" group-title="RUNTIME TV - ✨ESPANHA✨" , Runtime Thriller
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6120
+#EXTINF:-1 tvg-id="filmco" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/filmco_-_logo_y_fondo_0.jpg" group-title="RUNTIME TV - ✨ESPANHA✨" , Film&Co
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5625
+#EXTINF:-1 tvg-id="runtime-familia-1" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_familia_16x9_0.jpg" group-title="RUNTIME TV - ✨ESPANHA✨" , Runtime Familia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647
+#EXTINF:-1 tvg-id="sangre-fria" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/f5457ac0-sangre_fria_1920x1080_0.jpg" group-title="RUNTIME TV - ✨ESPANHA✨" , Sangre Fría
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6130
+#EXTINF:-1 tvg-id="runtime-series" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_series_16x9_0.jpg" group-title="RUNTIME TV - ✨ESPANHA✨" , Runtime Series 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6132
+#EXTINF:-1 tvg-id="runtime-crimen" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_crimen_16x9.jpg" group-title="RUNTIME TV - ✨ESPANHA✨" , Runtime Crimen
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
+#EXTINF:-1 tvg-id="runtime-clasicos" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_clasicos_16x9.jpg" group-title="RUNTIME TV - ✨ESPANHA✨" , Runtime Clásicos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053
+#EXTINF:-1 tvg-id="cinema" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/EK9aZjZ1ZauSbrscsQm-o9wYSvgoY8k861H04hY1JDA.jpg" group-title="RUNTIME TV - ✨ESPANHA✨" , Cinema
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
+#EXTINF:-1 tvg-id="pocoyo" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/pocoyo_-_logo_y_fondo_0.jpg" group-title="RUNTIME TV - ✨ESPANHA✨" , Pocoyó
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5626
+#EXTINF:-1 tvg-id="pitufo-tv" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/frNx2DfR11womim_Wb9dQQy8GqFDysPrcOHXmWwhnig.jpg" group-title="RUNTIME TV - ✨ESPANHA✨" , Pitufo TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5444
+#EXTINF:-1 tvg-id="vive-kanal-d-drama-0" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/vive_kdd_logo-1920x0180_-_ankit_sinha_6.jpg" group-title="RUNTIME TV - ✨ESPANHA✨" , Vive Kanal D Drama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanalddrama-runtimeusa/playlist.m3u8?ip=37.120.142.231
+#EXTINF:-1 tvg-id="corazon" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/corazon_1920x1080.png" group-title="RUNTIME TV - ✨ESPANHA✨" , Corazón
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
+#EXTINF:-1 tvg-id="ana-y-los-7" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_ana_y_los_7_16x9_v2.jpg" group-title="RUNTIME TV - ✨ESPANHA✨" , Ana y los 7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2722
+#EXTINF:-1 tvg-id="curro-jimenez" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_curro_jimenez_16x9_v2.jpg" group-title="RUNTIME TV - ✨ESPANHA✨" , Curro Jiménez
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3435
 
 
 
