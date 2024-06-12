@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-meo-pt.xml.gz"
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="DEST" tvg-logo="https://www.meo.pt/PublishingImages/paginas/cartoon-network/cartoon-network-premium-adira-tv-meo-secundario.webp",MEO FHD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="DEST" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/destaques.png",MEO FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$MEO_Destaques_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)_
 #EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="RTP1.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/rtp1.png",RTP 1 FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$RTP1_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)_
@@ -41,7 +41,7 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$C1
 
 #EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="SPTVHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/sporttvplus.png",SPORTV + FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)_
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="SPT1HD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/sporttv1.png",SPORTV 1 FHD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="SPT1HD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/sporttv1.png",C FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)_
 #EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="SPT2HD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/sporttv2.png",SPORTV 2 FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)_
@@ -297,98 +297,98 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TV
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TPA_INTERNACIONAL/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)_
 #EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="TCVInternacional.cv" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/tcv.png",TCV INTERNACIONAL SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TCV_Internacional/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)_
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="BloombergTVEurope.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Bloomberg_2015.svg",BLOOMBERG
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="BloombergTVEurope.uk" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/bloomberg.png",BLOOMBERG
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Bloomberg/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)_
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="CNBCEurope.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/CNBC_2023.svg",CNBC EUROPE FHD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="CNBCEurope.uk" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/cnbceurope.png",CNBC EUROPE FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$CNBC_Europe_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)_
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="SkyNewsInternational.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/Sky_News_2020.svg",SKY NEWS SD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="SkyNewsInternational.uk" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/skynews.png",SKY NEWS SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Sky_News/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)_
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="ENGLISH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/English_Club_TV.svg",ENGLISH CLUB TV FHD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="ENGLISH" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/EnglishClubTV.png",ENGLISH CLUB TV FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$English_Club_TV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)_
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="NGHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/BBC_Entertainment_2011.svg",BBC ENTERTAINMENT SD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="NGHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/BBCEntertainment.png",BBC ENTERTAINMENT SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$BBC_Entertainment/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)_
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="France24English.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/France_24_2013.svg",FRANCE 24 INTERNACIONAL FHD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="France24English.fr" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/france24.png",FRANCE 24 INTERNACIONAL FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$France_24_I/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)_
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="i24NEWSFrench.il" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/I24_News.svg/revision/latest?cb=20210409153737",i24 NEWS INTERNACIONAL FHD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="i24NEWSFrench.il" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/I24News.png",i24 NEWS INTERNACIONAL FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$i24_News_I_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)_
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="NHKWorldJapan.jp" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/NHK_World-Japan_2020.svg",NHK FHD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="NHKWorldJapan.jp" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/NHKWorldJapan.png",NHK FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$NHK_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)_
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="CGTNDocumentary.cn" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/CGTN.svg",CGTN FHD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="CGTNDocumentary.cn" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/CGTN.png",CGTN FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$CGTN_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)_
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="ARIRANG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Arirang_TV_Old.jpg",ARIRANG TV FHD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="ARIRANG" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/ArirangTV.png",ARIRANG TV FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$ArirangTV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)_
 #EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="EURNIHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/euronews.png",EURONEWS ING FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Euronews_ing_hd/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)_
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="ALJAZHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/Al_Jazeera_English_2020.svg",ALJAZEERA FHD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="ALJAZHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/AlJazeera.png",ALJAZEERA FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$AlJazeera_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)_
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="TRTWorld.tr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/TRT_World.svg",TRT WORLD FHD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="TRTWorld.tr" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/TRTWorld.png",TRT WORLD FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TRT_World_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)_
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="GaliciaTVEuropa.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Television_de_Galicia_logo_2006.svg",TV GALICIA FHD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="GaliciaTVEuropa.es" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/tvgalicia.png",TV GALICIA FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TV_Galicia_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)_
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="Telesur.ve" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Telesur_%282017%29.png",TELESUR FHD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="Telesur.ve" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/telesurhd.png",TELESUR FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Telesur_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)_
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="CubavisionInternacional.cu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Cubavision2017.png",CUBAVISION SD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="CubavisionInternacional.cu" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/Cubavision.png",CUBAVISION SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Cubavision/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)_
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="TV5HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/TV5Monde_2021.svg",TV5 MONDE FHD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="TV5HD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/tv5mondeeurope.png",TV5 MONDE FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TV5_Monde_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)_
 
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="BFMTV.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/BFM_TV_2019.jpg",BFM TV SD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="BFMTV.fr" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/BFMTV.png",BFM TV SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$BFM_TV/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)_
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="BFMBusiness.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/BFM_Business_2020.png",BFM BUSINESS SD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="BFMBusiness.fr" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/BFMBusiness.png",BFM BUSINESS SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$BFM_Business/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)_
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="i24NEWSFrench.il" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/I24_News.svg",i24 NEWS FRANCE SD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="i24NEWSFrench.il" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/I24News.png",i24 NEWS FRANCE SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$i24_News_F/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)_
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="France24French.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/France_24_2013.svg",FRANCE 24 FHD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="France24French.fr" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/france24.png",FRANCE 24 FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$France_24_F/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)_
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="arte.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/Arte_France_Cinema.png",ARTE FRANCE FHD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="arte.fr" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/ArteFrance.png",ARTE FRANCE FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$ARTE_F_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)_
 #EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/euronews.png",EURONEWS A SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Euronews_a/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)_
 
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="BVN.nl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/BVN_2018.svg",BVN SD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="BVN.nl" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/BVN.png",BVN SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$BVN/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)_
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="PROTVInternational.ro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Pro_TV_Int_2017.png",PRO TV INTERNACIONAL SD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="PROTVInternational.ro" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/ProTVIn.png",PRO TV INTERNACIONAL SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$PRO_TV_Internacional/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)_
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="BNT4.bg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/BNT_4_2018.svg",BNT 4 SD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="BNT4.bg" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/BNT4.png",BNT 4 SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$BNT_SAT/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)_
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="KBSWorld.kr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/KBS_World_24_logo.png",KBS WORLD FHD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="KBSWorld.kr" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/KBSWorld.png",KBS WORLD FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$KBS_World/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)_
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="CCTV4HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/CCTV-4_Europe.png",CCTV 4 FHD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="CCTV4HD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/CCTV4.png",CCTV 4 FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$CCTV_4_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)_
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="PhoenixCNEChannel.hk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/Phoenix_HK_logo.svg",PHOENIX CNE FHD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="PhoenixCNEChannel.hk" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/PhoenixHK.png",PHOENIX CNE FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$PHOENIX_CNE_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)_
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="FREEDOM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/FreeDom_UATV_%282022%29.svg",FREEDOM SD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="FREEDOM" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/FreeDom.png",FREEDOM SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Freedom/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)_
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="1E1INT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/1%2B1_Ukraina_%282022%29.svg",1+1 FHD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="1E1INT" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/1%2B1Ukraina.png",1+1 FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Ukraine_1_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)_
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="1E1UNEW" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/1%2B1_Marafon_%282022%29.svg",1+1 MARAFON FHD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="1E1UNEW" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/1%2B1Marafon.png",1+1 MARAFON FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Ukraine_2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)_
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="KVARTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/Kvartal_TV.png",KVARTAL TV FHD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="KVARTV" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/KvartalTV.png",KVARTAL TV FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$NLO_TV_2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)_
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="StarCinema.ua"" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Star_Cinema_%28Ukraine%29_%282016%29.svg",STAR CINEMA UA FHD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="StarCinema.ua"" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/StarCinema.png",STAR CINEMA UA FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Star_Cinema_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)_
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="StarFamily.ru" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star_Family_%28Ukraine%29_%282017%29.svg",STAR FAMILY UA FHD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="StarFamily.ru" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/StarFamily.png",STAR FAMILY UA FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Star_Family_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)_
 
 
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="Rai1.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Rai_1_2016.svg",RAI 1 SD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="Rai1.it" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/Rai1.png",RAI 1 SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_1/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)_
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="Rai2.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Rai_2_2016.svg",RAI 2 SD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="Rai2.it" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/Rai2.png",RAI 2 SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_2/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)_
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="Rai3.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Rai_3_2016.svg",RAI 3 SD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="Rai3.it" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/Rai3.png",RAI 3 SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_3/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)_
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="RaiScuola.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Rai_Scuola_New_Logo.svg", RAI Scuola SD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="RaiScuola.it" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/RaiScuola.png", RAI Scuola SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_Scuola/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)_
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="RaiStoria.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Rai_Storia_New_Logo.svg", RAI Storia SD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="RaiStoria.it" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/RaiStoria.png", RAI Storia SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_Storia/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)_
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="RaiNews24.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Rai_News_new_logo.svg", RAI News 24 SD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="RaiNews24.it" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/RaiNew.png", RAI News 24 SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_News/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)_
 
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="ZeeTVUK.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Zee_TV_2017.svg",ZEE TV SD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="ZeeTVUK.uk" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/ZeeTV.png",ZEE TV SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$ZEE_TV/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)_
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="ZeeCinemaUK.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Zee_Cinema_2017.svg",ZEE CINEMA SD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="ZeeCinemaUK.uk" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/ZeeCinema.png",ZEE CINEMA SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$ZEE_CINEMA/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)_
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="SonyEntertainmentTelevisionAsia.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/SET_LOGO.png",SONY ENTERTAINMENT TELEVISION IN SD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="SonyEntertainmentTelevisionAsia.in" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/SonyEntertainmentTelevision.png",SONY ENTERTAINMENT TELEVISION IN SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SET_ASIA/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)_
-#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="SonyMax.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Sony_MAX_SD.png",SONY MAX IN SD
+#EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="SonyMax.uk" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/SonyMAX.png",SONY MAX IN SD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SET_MAX/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(2100000)_
