@@ -70,6 +70,14 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$El
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_5_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
 #EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="Eleven6.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/elevensports6.png",ELEVEN SPORTS 6 FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_6_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
+#EXTINF:-1 group-title="✨MEO FHD✨"  tvg-id="Eleven1.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/elevensports1.png",ELEVEN SPORTS EXTRA 1 FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Extra_1_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
+#EXTINF:-1 group-title="✨MEO FHD✨"  tvg-id="Eleven2.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/elevensports2.png",ELEVEN SPORTS EXTRA 2 FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Extra_2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
+#EXTINF:-1 group-title="✨MEO FHD✨"  tvg-id="Eleven3.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/elevensports3.png",ELEVEN SPORTS EXTRA 3 FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Extra_3_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
+#EXTINF:-1 group-title="✨MEO FHD✨"  tvg-id="Eleven4.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/elevensports4.png",ELEVEN SPORTS EXTRA 4 FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Extra_4_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
 
 #EXTINF:-1 group-title="✨MEO FHD✨" tvg-id="SLBHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/btv.png",BENFICA TV FHD
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Benfica_TV_1_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
