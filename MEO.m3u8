@@ -1,408 +1,385 @@
 #EXTM3U x-tvg-url="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-meo-pt.xml.gz"
 # 🔰 ✨MEO✨ 🔰
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="RTP1.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/rtp1.png",RTP 1 FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$RTP1_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="RTP2.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/rtp2.png",RTP 2 FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$RTP_2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="SIC.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/sic.png",SIC FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SIC_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="TVI.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/tvi.png",TVI FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TVI_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="TVIFiccao.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/tvificcao.png",TVI FICÇÃO FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TVIFI_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
+#EXTINF:-1 group-title="✨MEO✨ - 📺EM GERAL📺" tvg-id="RTP1.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/rtp1.png",RTP 1 FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$RTP1_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 📺EM GERAL📺" tvg-id="RTP2.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/rtp2.png",RTP 2 FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$RTP_2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 📺EM GERAL📺" tvg-id="SIC.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/sic.png",SIC FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SIC_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 📺EM GERAL📺" tvg-id="TVI.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/tvi.png",TVI FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TVI_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 📺EM GERAL📺" tvg-id="TVIFiccao.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/tvificcao.png",TVI FICÇÃO FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TVIFI_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 📺EM GERAL📺" tvg-id="RTPAcores.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/rtpacores.png",RTP AÇORES FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$RTP_AC_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 📺EM GERAL📺" tvg-id="RTPMadeira.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/rtpmadeira.png",RTP MADEIRA FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$RTP_Madeira_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 📺EM GERAL📺" tvg-id="RTPAfrica.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/rtpafrica.png",RTP ÁFRICA SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$RTP_Africa/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)/Segment(17192227839263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 📺EM GERAL📺" tvg-id="sicradical.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/sicradical.png",SIC RADICAL FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SIC_Radical_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 📺EM GERAL📺" tvg-id="SICMulher.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/sicmulher.png",SIC MULHER FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SIC_Mulher_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 📺EM GERAL📺" tvg-id="siccaras.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/siccaras.png",SIC CARAS FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SIC_Caras_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 📺EM GERAL📺" tvg-id="RedeGlobo.br" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/globo.png",GLOBO FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Globo_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 📺EM GERAL📺" tvg-id="TVIReality.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/tvireality.png",TVI REALITY FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Bb_2020_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 📺EM GERAL📺" tvg-id="QHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/canalq.png",CANAL Q FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Canal_Q_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 📺EM GERAL📺" tvg-id="TimelessDiziChannel.ro" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/dizi.png",DIZI FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Dizi_Channel_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 📺EM GERAL📺" tvg-id="AZORES" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/azores.png",AZORES TV FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$AzoresTV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 📺EM GERAL📺" tvg-id="ARTV.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/artv.png",AR TV SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$AR_TV/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)/Segment(17192227839263300).ts
 
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="CNNPORTUGAL.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/cnn.png",CNN FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TVI24_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="cmtv.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/cmtv.png",CM TV FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$CMTVHD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="sicnoticias.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/sicnoticias.png",SIC NOTICIAS FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SIC_Noticias_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="NOW" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/newsn9w.png",NEWS NOW FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Now_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="RTPAcores.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/rtpacores.png",RTP AÇORES FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$RTP_AC_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="RTPMadeira.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/rtpmadeira.png",RTP MADEIRA FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$RTP_Madeira_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
+#EXTINF:-1 group-title="✨MEO✨ - 📰NOTÍCIAS📰" tvg-id="CNNPORTUGAL.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/cnn.png",CNN FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TVI24_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 📰NOTÍCIAS📰" tvg-id="cmtv.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/cmtv.png",CM TV FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$CMTVHD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 📰NOTÍCIAS📰" tvg-id="sicnoticias.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/sicnoticias.png",SIC NOTICIAS FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SIC_Noticias_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 📰NOTÍCIAS📰" tvg-id="NOW" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/newsn9w.png",NEWS NOW FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Now_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 📰NOTÍCIAS📰" tvg-id="GloboNews.br" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/globonews.png",GLOBO NEWS FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Globo_Premium_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 📰NOTÍCIAS📰" tvg-id="France24English.fr" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/france24.png",FRANCE 24 INTERNACIONAL FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$France_24_I/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 📰NOTÍCIAS📰" tvg-id="i24NEWSFrench.il" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/I24News.png",i24 NEWS INTERNACIONAL FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$i24_News_I_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 📰NOTÍCIAS📰" tvg-id="EURNIHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/euronews.png",EURONEWS ING FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Euronews_ing_hd/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 📰NOTÍCIAS📰" tvg-id="LVTVHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/localvisaotv.png",LOCALVISAO TV FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Localvisao_TV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 📰NOTÍCIAS📰" tvg-id="TVA" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/TVA.png",TVA FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TVA_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 📰NOTÍCIAS📰" tvg-id="CNBCEurope.uk" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/cnbceurope.png",CNBC EUROPE FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$CNBC_Europe_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 📰NOTÍCIAS📰" tvg-id="NHKWorldJapan.jp" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/NHKWorldJapan.png",NHK FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$NHK_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 📰NOTÍCIAS📰" tvg-id="CGTNDocumentary.cn" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/CGTN.png",CGTN FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$CGTN_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).tsV
+#EXTINF:-1 group-title="✨MEO✨ - 📰NOTÍCIAS📰" tvg-id="ALJAZHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/AlJazeera.png",ALJAZEERA FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$AlJazeera_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 📰NOTÍCIAS📰" tvg-id="TRTWorld.tr" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/TRTWorld.png",TRT WORLD FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TRT_World_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 📰NOTÍCIAS📰" tvg-id="PhoenixCNEChannel.hk" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/PhoenixHK.png",PHOENIX CNE FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$PHOENIX_CNE_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
 
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="sicradical.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/sicradical.png",SIC RADICAL FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SIC_Radical_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="SICMulher.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/sicmulher.png",SIC MULHER FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SIC_Mulher_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="siccaras.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/siccaras.png",SIC CARAS FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SIC_Caras_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="RedeGlobo.br" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/globo.png",GLOBO FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Globo_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="TVIReality.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/tvireality.png",TVI REALITY FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Bb_2020_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
+#EXTINF:-1 group-title="✨MEO✨ - 📰NOTÍCIAS📰" tvg-id="RecordNews.br" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/recordnews.png",RECORD NEWS SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Record_News/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)/Segment(17192227839263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 📰NOTÍCIAS📰" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/euronews.png",EURONEWS SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Euronews/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)/Segment(17192227839263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 📰NOTÍCIAS📰" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/euronews.png",EURONEWS ALEMANHA SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Euronews_a/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)/Segment(17192227839263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 📰NOTÍCIAS📰" tvg-id="TPAi.ao" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/tpa.png",TPA INTERNACIONAL SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TPA_INTERNACIONAL/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)/Segment(17192227839263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 📰NOTÍCIAS📰" tvg-id="TCVInternacional.cv" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/tcv.png",TCV INTERNACIONAL SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TCV_Internacional/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)/Segment(17192227839263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 📰NOTÍCIAS📰" tvg-id="BloombergTVEurope.uk" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/bloomberg.png",BLOOMBERG SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Bloomberg/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)/Segment(17192227839263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 📰NOTÍCIAS📰" tvg-id="SkyNewsInternational.uk" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/skynews.png",SKY NEWS SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Sky_News/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)/Segment(17192227839263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 📰NOTÍCIAS📰" tvg-id="BNT4.bg" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/BNT4.png",BNT 4 SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$BNT_SAT/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)/Segment(17192227839263300).ts
 
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="ABolaTV.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/abolatv.png",A BOLA FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$ABOLA_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="canal11.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/canal11.png",CANAL 11 FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$C11_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
+#EXTINF:-1 group-title="✨MEO✨ - ⚽️DESPORTO⚽️" tvg-id="ABolaTV.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/abolatv.png",A BOLA FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$ABOLA_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - ⚽️DESPORTO⚽️"  tvg-id="canal11.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/canal11.png",CANAL 11 FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$C11_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - ⚽️DESPORTO⚽️"  tvg-id="SPTVHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/sporttvplus.png",SPORTV + FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - ⚽️DESPORTO⚽️"  tvg-id="SPT1HD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/sporttv1.png",SPORTV 1 FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - ⚽️DESPORTO⚽️"  tvg-id="SPT2HD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/sporttv2.png",SPORTV 2 FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - ⚽️DESPORTO⚽️"  tvg-id="SPT3HD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/sporttv3.png",SPORTV 3 FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV3_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - ⚽️DESPORTO⚽️"  tvg-id="SPT4HD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/sporttv4.png",SPORTV 4 FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV4_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - ⚽️DESPORTO⚽️"  tvg-id="SPT5HD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/sporttv5.png",SPORTV 5 FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV5_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - ⚽️DESPORTO⚽️"  tvg-id="SPT6HD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/sporttv6.png",SPORTV 6 FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV6_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - ⚽️DESPORTO⚽️"  tvg-id="Eleven1.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/elevensports1.png",ELEVEN SPORTS 1 FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - ⚽️DESPORTO⚽️"  tvg-id="Eleven2.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/elevensports2.png",ELEVEN SPORTS 2 FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - ⚽️DESPORTO⚽️"  tvg-id="Eleven3.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/elevensports3.png",ELEVEN SPORTS 3 FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_3_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - ⚽️DESPORTO⚽️"  tvg-id="Eleven4.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/elevensports4.png",ELEVEN SPORTS 4 FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_4_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - ⚽️DESPORTO⚽️"  tvg-id="Eleven5.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/elevensports5.png",ELEVEN SPORTS 5 FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_5_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - ⚽️DESPORTO⚽️"  tvg-id="Eleven6.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/elevensports6.png",ELEVEN SPORTS 6 FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_6_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - ⚽️DESPORTO⚽️"  tvg-id="Eleven1.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/elevensports1.png",ELEVEN SPORTS EXTRA 1 FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Extra_1_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - ⚽️DESPORTO⚽️"  tvg-id="Eleven2.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/elevensports2.png",ELEVEN SPORTS EXTRA 2 FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Extra_2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - ⚽️DESPORTO⚽️"  tvg-id="Eleven3.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/elevensports3.png",ELEVEN SPORTS EXTRA 3 FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Extra_3_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - ⚽️DESPORTO⚽️"  tvg-id="Eleven4.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/elevensports4.png",ELEVEN SPORTS EXTRA 4 FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Extra_4_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - ⚽️DESPORTO⚽️"  tvg-id="SLBHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/btv.png",BENFICA TV FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Benfica_TV_1_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - ⚽️DESPORTO⚽️"  tvg-id="SCPHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/sportingtv.png",SPORTING TV FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Sporting_TV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - ⚽️DESPORTO⚽️"  tvg-id="EURHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/eurosport1.png",EUROSPORT 1 FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eurosport_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - ⚽️DESPORTO⚽️"  tvg-id="EURS2HD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/eurosport2.png",EUROSPORT 2 FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eurosport_2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - ⚽️DESPORTO⚽️"  tvg-id="NBATV.us" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/nbatv.png",NBA TV FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$NBA_TV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - ⚽️DESPORTO⚽️"  tvg-id="FightSports.us" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/fightsports.png",FIGHT SPORTS FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Fight_Sports_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - ⚽️DESPORTO⚽️"  tvg-id="WSPORT" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/wsport.png",W SPORT FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$W_Sport_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - ⚽️DESPORTO⚽️"  tvg-id="XSport.ua" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/xsport%2B.png",X SPORT+ FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$X_Sport_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - ⚽️DESPORTO⚽️" tvg-id="PFCInternacional.br" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/pfc.png",PFC SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$PFC/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)/Segment(17192227839263300).ts
 
-
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="SPTVHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/sporttvplus.png",SPORTV + FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="SPT1HD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/sporttv1.png",SPORTV 1 FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="SPT2HD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/sporttv2.png",SPORTV 2 FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="SPT3HD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/sporttv3.png",SPORTV 3 FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV3_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="SPT4HD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/sporttv4.png",SPORTV 4 FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV4_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="SPT5HD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/sporttv5.png",SPORTV 5 FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV5_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="SPT6HD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/sporttv6.png",SPORTV 6 FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV6_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="Eleven1.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/elevensports1.png",ELEVEN SPORTS 1 FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="Eleven2.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/elevensports2.png",ELEVEN SPORTS 2 FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="Eleven3.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/elevensports3.png",ELEVEN SPORTS 3 FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_3_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="Eleven4.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/elevensports4.png",ELEVEN SPORTS 4 FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_4_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="Eleven5.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/elevensports5.png",ELEVEN SPORTS 5 FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_5_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="Eleven6.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/elevensports6.png",ELEVEN SPORTS 6 FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_6_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨"  tvg-id="Eleven1.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/elevensports1.png",ELEVEN SPORTS EXTRA 1 FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Extra_1_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨"  tvg-id="Eleven2.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/elevensports2.png",ELEVEN SPORTS EXTRA 2 FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Extra_2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨"  tvg-id="Eleven3.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/elevensports3.png",ELEVEN SPORTS EXTRA 3 FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Extra_3_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨"  tvg-id="Eleven4.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/elevensports4.png",ELEVEN SPORTS EXTRA 4 FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Extra_4_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="SLBHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/btv.png",BENFICA TV FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Benfica_TV_1_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="SCPHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/sportingtv.png",SPORTING TV FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Sporting_TV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="EURHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/eurosport1.png",EUROSPORT 1 FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eurosport_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="EURS2HD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/eurosport2.png",EUROSPORT 2 FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eurosport_2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="NBATV.us" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/nbatv.png",NBA TV FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$NBA_TV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="FightSports.us" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/fightsports.png",FIGHT SPORTS FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Fight_Sports_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="WSPORT" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/wsport.png",W SPORT FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$W_Sport_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="XSport.ua" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/xsport%2B.png",X SPORT+ FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$X_Sport_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-
-
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="TVCineTop.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/tvcinetop.png",TV CINE TOP FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TVCine_1_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="TVCineEdition.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/tvcineedition.png",TV CINE EDITION FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TVCine_2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="TVCineEmotion.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/tvcineemotion.png",TV CINE EMOTION FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TVCine_3_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="TVCineAction.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/tvcineaction.png",TV CINE ACTION FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TVCine_4_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="STARMOV" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/starmovies.png",STAR MOVIES FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$FOX_Movies_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="STARCHA" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/starchannel.png",STAR CHANNEL FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$FOX_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="STARLIF" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/starlife.png",STAR LIFE FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$FOX_Life_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="STARCRI" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/starcrime.png",STAR CRIME FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$FOX_Crime_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="STARCOM" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/starcomedy.png",STAR COMEDY FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$FOX_Comedy_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="amc.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/amc.png",AMC FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$AMC_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="AXNHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/axn.png",AXN FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$AXN_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="AXWHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/axnwhite.png",AXN WHITE FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$AXN_White_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="AXNMHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/axnmovies.png",AXN MOVIES FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$AXN_Black_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="CINEHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/cinemundo.png",CINEMUNDO FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Cinemundo_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="HOLHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/canalhollywood.png",HOLLYWOOD FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Hollywood_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="syfy.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/syfy.png",SYFY FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SyFy_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="DEST" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/destaques.png",MEO FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$MEO_Destaques_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="VOD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/MEOVIDEOCLUBE.png",MEO VIDEOCLUBE FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$MEO_VideoClube_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="TimelessDiziChannel.ro" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/dizi.png",DIZI CHANNEL FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Dizi_Channel_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="discvhd" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/discoverychannelhd.png",DISCOVERY CHANNEL FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Discovery_Channel_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="HISTHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/historia.png",HISTORIA FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Historia_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="ODISSHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/odisseia.png",ODISSEIA FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Odisseia_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="NGHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/nationalgeographic.png",NATIONAL GEOGRAPHIC FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$National_Geographic_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="WILDHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/nationalgeographicwild.png",NATIONAL GEOGRAPHIC WILD FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Nat_Geo_Wild_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="AMCCRI" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/crimeinvestigation.png",CRIME INVESTIGATION FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Crime_Investigation_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="ID" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/investigationdiscovery.png",INVESTIGATION DISCOVERY FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Investigation_Discovery_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-
-
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="sick.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/sick.png",SIC K FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SIC_K_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="Biggs.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/biggs.png",BIGGS FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Panda_Biggs_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="CanalPanda.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/canalpanda.png",CANAL PANDA FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Panda_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="CNITO" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/cartoonito.png",CARTOONITO FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Boomerang_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="pandakids.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/pandakids.png",PANDA KIDS FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Panda_Kids_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="disneychannel.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/disneychannel.png",DISNEY CHANNEL FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Disney_Channel_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="disneyjunior.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/disneyjunior.png",DISNEY JUNIOR FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Disney_Junior_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="NICKJR" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/nickjr.png",NICK JR FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Nick_JR_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="Nickelodeon.es" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/nickelodeon.png",NICKELODEON FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Nickelodeon_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="LollyKids.uk" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/lollykids.png",LOLLY KIDS FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Lolly_Kids_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="cartoonnetwork.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/cartoonnetwork.png",CARTOON NETWORK FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Cartoon_Network_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="DUCKTV" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/bebetv.png",DUCK TV FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Rybalka_TV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="BabyTV.uk" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/babytv.png",BABY TV SD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Baby_TV/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)
-
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="Gametoon.nl" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/gametoonhd.png",GAME TOON FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Game_Toon_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="QHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/canalq.png",CANAL Q FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Canal_Q_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="tlc.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/tlc.png",TLC FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TLC_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="CASACOZ" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/casaecozinha.png",CASA COZINHA FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Casa_Cozinha_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="24KTHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/24kitchen.png",24 KITCHEN FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$24Kitchen_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="CAÇAPHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/cacaepesca.png",CAÇA E PESCA FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Caca_e_Pesca_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
+#EXTINF:-1 group-title="✨MEO✨ - 🎬FILMES & SERIES🎬" tvg-id="TVCineTop.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/tvcinetop.png",TV CINE TOP FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TVCine_1_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎬FILMES & SERIES🎬" tvg-id="TVCineEdition.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/tvcineedition.png",TV CINE EDITION FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TVCine_2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎬FILMES & SERIES🎬" tvg-id="TVCineEmotion.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/tvcineemotion.png",TV CINE EMOTION FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TVCine_3_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎬FILMES & SERIES🎬" tvg-id="TVCineAction.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/tvcineaction.png",TV CINE ACTION FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TVCine_4_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎬FILMES & SERIES🎬" tvg-id="STARMOV" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/starmovies.png",STAR MOVIES FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$FOX_Movies_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎬FILMES & SERIES🎬" tvg-id="STARCHA" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/starchannel.png",STAR CHANNEL FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$FOX_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎬FILMES & SERIES🎬" tvg-id="STARLIF" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/starlife.png",STAR LIFE FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$FOX_Life_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎬FILMES & SERIES🎬" tvg-id="STARCRI" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/starcrime.png",STAR CRIME FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$FOX_Crime_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎬FILMES & SERIES🎬" tvg-id="STARCOM" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/starcomedy.png",STAR COMEDY FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$FOX_Comedy_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎬FILMES & SERIES🎬" tvg-id="amc.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/amc.png",AMC FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$AMC_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎬FILMES & SERIES🎬" tvg-id="AXNHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/axn.png",AXN FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$AXN_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎬FILMES & SERIES🎬" tvg-id="AXWHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/axnwhite.png",AXN WHITE FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$AXN_White_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎬FILMES & SERIES🎬" tvg-id="AXNMHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/axnmovies.png",AXN MOVIES FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$AXN_Black_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎬FILMES & SERIES🎬" tvg-id="CINEHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/cinemundo.png",CINEMUNDO FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Cinemundo_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎬FILMES & SERIES🎬" tvg-id="HOLHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/canalhollywood.png",HOLLYWOOD FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Hollywood_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎬FILMES & SERIES🎬" tvg-id="syfy.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/syfy.png",SYFY FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SyFy_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎬FILMES & SERIES🎬" tvg-id="DEST" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/destaques.png",MEO DESTAQUES FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$MEO_Destaques_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎬FILMES & SERIES🎬" tvg-id="VOD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/MEOVIDEOCLUBE.png",MEO VIDEOCLUBE FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$MEO_VideoClube_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
 
 
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="MTVPHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/mtv.png",MTV FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$MTV_PORTUGAL_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="MTVPHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/mtv.png",MTV LIVE FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$MTV_Live_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="MTV00s.uk" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/mtv00s.png",MTVOOs SD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$VH1/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="MCMTHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/mcmtop.png",MCM TOP FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$MCM_TOP_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="MCMTHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/mcmpop.png",MCM POP FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$MCM_POP_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
+#EXTINF:-1 group-title="✨MEO✨ - 🏛️DOCUMENTÁRIOS🏛️" tvg-id="tlc.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/tlc.png",TLC FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TLC_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🏛️DOCUMENTÁRIOS🏛️" tvg-id="discvhd" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/discoverychannelhd.png",DISCOVERY CHANNEL FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Discovery_Channel_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🏛️DOCUMENTÁRIOS🏛️" tvg-id="HISTHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/historia.png",HISTORIA FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Historia_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🏛️DOCUMENTÁRIOS🏛️" tvg-id="ODISSHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/odisseia.png",ODISSEIA FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Odisseia_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🏛️DOCUMENTÁRIOS🏛️" tvg-id="NGHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/nationalgeographic.png",NATIONAL GEOGRAPHIC FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$National_Geographic_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🏛️DOCUMENTÁRIOS🏛️" tvg-id="WILDHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/nationalgeographicwild.png",NATIONAL GEOGRAPHIC WILD FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Nat_Geo_Wild_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🏛️DOCUMENTÁRIOS🏛️" tvg-id="AMCCRI" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/crimeinvestigation.png",CRIME INVESTIGATION FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Crime_Investigation_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🏛️DOCUMENTÁRIOS🏛️" tvg-id="ID" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/investigationdiscovery.png",INVESTIGATION DISCOVERY FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Investigation_Discovery_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🏛️DOCUMENTÁRIOS🏛️" tvg-id="TRAXP" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/Travelxp.png",TRAVELxp FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Travelxp_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
 
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="AMCBRE" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/amcbreak.png",AMC BREAK FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Blaze_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="AfroMusicChannel.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/afromusic.png",AFRO MUSIC
+#EXTINF:-1 group-title="✨MEO✨ - 🎎ANIME & KIDS🎎" tvg-id="sick.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/sick.png",SIC K FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SIC_K_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎎ANIME & KIDS🎎" tvg-id="Biggs.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/biggs.png",BIGGS FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Panda_Biggs_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎎ANIME & KIDS🎎" tvg-id="CanalPanda.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/canalpanda.png",CANAL PANDA FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Panda_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎎ANIME & KIDS🎎" tvg-id="CNITO" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/cartoonito.png",CARTOONITO FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Boomerang_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎎ANIME & KIDS🎎" tvg-id="pandakids.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/pandakids.png",PANDA KIDS FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Panda_Kids_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎎ANIME & KIDS🎎" tvg-id="disneychannel.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/disneychannel.png",DISNEY CHANNEL FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Disney_Channel_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎎ANIME & KIDS🎎" tvg-id="disneyjunior.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/disneyjunior.png",DISNEY JUNIOR FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Disney_Junior_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎎ANIME & KIDS🎎" tvg-id="NICKJR" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/nickjr.png",NICK JR FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Nick_JR_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎎ANIME & KIDS🎎" tvg-id="Nickelodeon.es" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/nickelodeon.png",NICKELODEON FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Nickelodeon_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎎ANIME & KIDS🎎" tvg-id="LollyKids.uk" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/lollykids.png",LOLLY KIDS FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Lolly_Kids_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎎ANIME & KIDS🎎" tvg-id="cartoonnetwork.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/cartoonnetwork.png",CARTOON NETWORK FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Cartoon_Network_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎎ANIME & KIDS🎎" tvg-id="DUCKTV" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/bebetv.png",DUCK TV FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Rybalka_TV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎎ANIME & KIDS🎎" tvg-id="BabyTV.uk" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/babytv.png",BABY TV SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Baby_TV/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)/Segment(17192227839263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎎ANIME & KIDS🎎" tvg-id="Gametoon.nl" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/gametoonhd.png",GAME TOON FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Game_Toon_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎎ANIME & KIDS🎎" tvg-id="ARIRANG" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/ArirangTV.png",ARIRANG TV FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$ArirangTV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+
+
+#EXTINF:-1 group-title="✨MEO✨ - 🍽️CASA & COZINHA🍽️" tvg-id="CASACOZ" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/casaecozinha.png",CASA COZINHA FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Casa_Cozinha_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🍽️CASA & COZINHA🍽️" tvg-id="24KTHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/24kitchen.png",24 KITCHEN FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$24Kitchen_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+
+
+#EXTINF:-1 group-title="✨MEO✨ - 🤳ENTRETENIMENTO🤳" tvg-id="FUELTV.at" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/fueltv.png", FUEL TV FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Fuel_TV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🤳ENTRETENIMENTO🤳" tvg-id="HGTV" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/HGTV.png",HGTV FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$HGTV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🤳ENTRETENIMENTO🤳" tvg-id="MasChicPanregional.ar" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/MasChic.png",MASCHIC FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Casa_Club_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🤳ENTRETENIMENTO🤳" tvg-id="E! HD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/eentertainment.png",ENTERTAINMENT FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$E_Entertainment_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🤳ENTRETENIMENTO🤳" tvg-id="SPlus.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/saudemais.png",SAUDE + FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Saude_Mais_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🤳ENTRETENIMENTO🤳" tvg-id="FTVHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/FashionTV.png",FTV FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$FTV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🤳ENTRETENIMENTO🤳" tvg-id="C180" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/Canal180.png",CANAL 180 FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$CANAL_180/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🤳ENTRETENIMENTO🤳" tvg-id="ENGLISH" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/EnglishClubTV.png",ENGLISH CLUB TV FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$English_Club_TV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🤳ENTRETENIMENTO🤳" tvg-id="BVN.nl" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/BVN.png",BVN SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$BVN/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)/Segment(17192227839263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🤳ENTRETENIMENTO🤳" tvg-id="KBSWorld.kr" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/KBSWorld.png",KBS WORLD FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$KBS_World/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🤳ENTRETENIMENTO🤳" tvg-id="CCTV4HD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/CCTV4.png",CCTV 4 FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$CCTV_4_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+
+#EXTINF:-1 group-title="✨MEO✨ - 🎶MÚSICA🎶" tvg-id="MTVPHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/mtv.png",MTV FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$MTV_PORTUGAL_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎶MÚSICA🎶" tvg-id="MTVPHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/mtv.png",MTV LIVE FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$MTV_Live_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎶MÚSICA🎶" tvg-id="MTV00s.uk" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/mtv00s.png",MTVOOs SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$VH1/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)/Segment(17192227839263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎶MÚSICA🎶" tvg-id="MCMTHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/mcmtop.png",MCM TOP FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$MCM_TOP_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎶MÚSICA🎶" tvg-id="MCMTHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/mcmpop.png",MCM POP FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$MCM_POP_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎶MÚSICA🎶" tvg-id="AMCBRE" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/amcbreak.png",AMC BREAK FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Blaze_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎶MÚSICA🎶" tvg-id="AfroMusicChannel.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/afromusic.png",AFRO MUSIC
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Afro_Music/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Livel(1200000)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="CLUBHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/clubbingtv.png",CLUBBING FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Clubbing_TV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="TRAHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/traceurban.png",TRACE URBAN TV FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Trace_TV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="TraceToca.fr" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/tracetoca.png",TRACE TOCA FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Trace_Toca_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="TraceBrazuca.fr" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/tracebrazuca.png",TRACE BRASIL FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Trace_Brazuca_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="AlmaLusa.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/almalusa.png",ALMA LUSA FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Alma_Lusa_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="MezzoLive.fr" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/mezzo.png",MEZZO FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Mezzo_Live_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="BomSomTV.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/bomsom.png",BOM SOM FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$BomSom_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
+#EXTINF:-1 group-title="✨MEO✨ - 🎶MÚSICA🎶" tvg-id="CLUBHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/clubbingtv.png",CLUBBING FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Clubbing_TV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎶MÚSICA🎶" tvg-id="TRAHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/traceurban.png",TRACE URBAN TV FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Trace_TV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎶MÚSICA🎶" tvg-id="TraceToca.fr" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/tracetoca.png",TRACE TOCA FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Trace_Toca_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎶MÚSICA🎶" tvg-id="TraceBrazuca.fr" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/tracebrazuca.png",TRACE BRASIL FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Trace_Brazuca_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎶MÚSICA🎶" tvg-id="AlmaLusa.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/almalusa.png",ALMA LUSA FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Alma_Lusa_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎶MÚSICA🎶" tvg-id="MezzoLive.fr" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/mezzo.png",MEZZO FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Mezzo_Live_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎶MÚSICA🎶" tvg-id="BomSomTV.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/bomsom.png",BOM SOM FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$BomSom_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎶MÚSICA🎶" tvg-id="StingrayClassica.ca" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/stingraclassica.png",STINGRAY CLASSICA FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Brava_HDTV/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎶MÚSICA🎶" tvg-id="StingrayDJAZZ.ca"" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/stingrayDJAZZ.png",STINGRAY DJazz FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$DJazz_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎶MÚSICA🎶" tvg-id="StingrayiConcerts.ca" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/STINGRAYICONCERTS.png",STINGRAY iCONCERTS FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$iCONCERTS/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎶MÚSICA🎶" tvg-id="StingrayLoud.ca" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/StingrayLoud.png",STINGRAY LOUD FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Stingray_Loud_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎶MÚSICA🎶" tvg-id="StingrayRetro.ca" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/StingrayRetro.png",STINGRAY RETRO FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Stingray_Retro_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎶MÚSICA🎶" tvg-id="CanalUmEuropa.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/umeuropa.png",UM EUROPA FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$UM_Europa_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🎶MÚSICA🎶" tvg-id="PROTVInternational.ro" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/ProTVIn.png",PRO TV INTERNACIONAL SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$PRO_TV_Internacional/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)/Segment(17192227839263300).ts
 
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="StingrayClassica.ca" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/stingraclassica.png",STINGRAY CLASSICA FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Brava_HDTV/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="StingrayDJAZZ.ca"" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/stingrayDJAZZ.png",STINGRAY DJazz FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$DJazz_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="StingrayiConcerts.ca" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/STINGRAYICONCERTS.png",STINGRAY iCONCERTS FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$iCONCERTS/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="StingrayLoud.ca" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/StingrayLoud.png",STINGRAY LOUD FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Stingray_Loud_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="StingrayRetro.ca" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/StingrayRetro.png",STINGRAY RETRO FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Stingray_Retro_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
+#EXTINF:-1 group-title="✨MEO✨ - 🐾CAÇA & PESCA🎣" tvg-id="CAÇAPHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/cacaepesca.png",CAÇA E PESCA FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Caca_e_Pesca_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🐾CAÇA & PESCA🎣" tvg-id="CAÇAVHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/cacavision.png",CAÇAVISION FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Cacavision_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🐾CAÇA & PESCA🎣" tvg-id="ONETORO" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/onetorotv.png",ONE TORO TV FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$MundotoroTV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🐾CAÇA & PESCA🎣" tvg-id="DOGTVHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/DOGTV.png",DOG TV FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$DOGTV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
 
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="SPlus.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/saudemais.png",SAUDE + FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Saude_Mais_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
+#EXTINF:-1 group-title="✨MEO✨ - FRANÇA" tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/M6.png",M6 FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24M6_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - FRANÇA" tvg-id="France2.fr" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/France2.png",FRANCE 2 FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$France_2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - FRANÇA" tvg-id="France3.fr" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/France3.png",FRANCE 3 FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$France_3_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - FRANÇA" tvg-id="France5.fr" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/France5.png",FRANCE 5 FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$France_5_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - FRANÇA" tvg-id="France24French.fr" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/france24.png",FRANCE 24 FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$France_24_F/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - FRANÇA" tvg-id="TV5HD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/tv5mondeeurope.png",TV5 MONDE FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TV5_Monde_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - FRANÇA" tvg-id="BFMTV.fr" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/BFMTV.png",BFM TV SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$BFM_TV/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)/Segment(17192227839263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - FRANÇA" tvg-id="BFMBusiness.fr" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/BFMBusiness.png",BFM BUSINESS SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$BFM_Business/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)/Segment(17192227839263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - FRANÇA" tvg-id="i24NEWSFrench.il" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/I24News.png",i24 NEWS FRANCE SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$i24_News_F/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)/Segment(17192227839263300).ts
 
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="ARTV.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/artv.png",AR TV SD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$AR_TV/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="TRAXP" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/Travelxp.png",TRAVELxp FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Travelxp_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="LVTVHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/localvisaotv.png",LOCALVISAO TV FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Localvisao_TV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="FTVHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/FashionTV.png",FTV FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$FTV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
+#EXTINF:-1 group-title="✨MEO✨ - ESPANHA" tvg-id="GaliciaTVEuropa.es" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/tvgalicia.png",TV GALICIA FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TV_Galicia_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - ESPANHA" tvg-id="Telesur.ve" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/telesurhd.png",TELESUR FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Telesur_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - ESPANHA" tvg-id="CubavisionInternacional.cu" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/Cubavision.png",CUBAVISION SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Cubavision/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)/Segment(17192227839263300).ts
 
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="HGTV" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/HGTV.png",HGTV FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$HGTV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="MasChicPanregional.ar" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/MasChic.png",MASCHIC FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Casa_Club_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="E! HD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/eentertainment.png",ENTERTAINMENT FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$E_Entertainment_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="AZORES" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/azores.png",AZORES TV FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$AzoresTV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
+#EXTINF:-1 group-title="✨MEO✨ - ITÁLIA" tvg-id="Rai1.it" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/Rai1.png",RAI 1 SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_1/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)/Segment(17192227839263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - ITÁLIA" tvg-id="Rai2.it" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/Rai2.png",RAI 2 SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_2/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)/Segment(17192227839263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - ITÁLIA" tvg-id="Rai3.it" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/Rai3.png",RAI 3 SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_3/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)/Segment(17192227839263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - ITÁLIA" tvg-id="RaiScuola.it" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/RaiScuola.png", RAI Scuola SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_Scuola/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)/Segment(17192227839263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - ITÁLIA" tvg-id="RaiStoria.it" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/RaiStoria.png", RAI Storia SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_Storia/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)/Segment(17192227839263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - ITÁLIA" tvg-id="RaiNews24.it" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/RaiNew.png", RAI News 24 SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_News/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)/Segment(17192227839263300).ts
 
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="CAÇAVHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/cacavision.png",CAÇAVISION FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Cacavision_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
+#EXTINF:-1 group-title="✨MEO✨ - UCRÁNIA" tvg-id="FREEDOM" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/FreeDom.png",FREEDOM SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Freedom/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)/Segment(17192227839263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - UCRÁNIA" tvg-id="1E1INT" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/1%2B1Ukraina.png",1+1 FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Ukraine_1_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - UCRÁNIA" tvg-id="1E1UNEW" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/1%2B1Marafon.png",1+1 MARAFON FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Ukraine_2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - UCRÁNIA" tvg-id="KVARTV" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/KvartalTV.png",KVARTAL TV FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$NLO_TV_2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - UCRÁNIA" tvg-id="StarCinema.ua"" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/StarCinema.png",STAR CINEMA UA FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Star_Cinema_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - UCRÁNIA" tvg-id="StarFamily.ru" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/StarFamily.png",STAR FAMILY UA FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Star_Family_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
 
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="ONETORO" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/onetorotv.png",ONE TORO TV FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$MundotoroTV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="DOGTVHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/DOGTV.png",DOG TV FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$DOGTV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="C180" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/Canal180.png",CANAL 180 FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$CANAL_180/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
+#EXTINF:-1 group-title="✨MEO✨ - ÁSIA" tvg-id="ZeeTVUK.uk" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/ZeeTV.png",ZEE TV SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$ZEE_TV/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)/Segment(17192227839263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - ÁSIA" tvg-id="ZeeCinemaUK.uk" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/ZeeCinema.png",ZEE CINEMA SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$ZEE_CINEMA/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)/Segment(17192227839263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - ÁSIA" tvg-id="SonyEntertainmentTelevisionAsia.in" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/SonyEntertainmentTelevision.png",SONY ENTERTAINMENT TELEVISION IN SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SET_ASIA/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)/Segment(17192227839263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - ÁSIA" tvg-id="SonyMax.uk" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/SonyMAX.png",SONY MAX IN SD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SET_MAX/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)/Segment(17192227839263300).ts
 
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/M6.png",M6 FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24M6_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="France2.fr" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/France2.png",FRANCE 2 FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$France_2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="France3.fr" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/France3.png",FRANCE 3 FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$France_3_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="France5.fr" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/France5.png",FRANCE 5 FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$France_5_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-
-
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="FUELTV.at" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/fueltv.png", FUEL TV FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24Fuel_TV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="SPlus.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/tvverade.png",TV VERDADE FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TV_Verdade_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="CanalUmEuropa.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/umeuropa.png",UM EUROPA FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$UM_Europa_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="UNIFE" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/unife.png",UNIFE TV FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$UnifeTV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="TVCancaoNova.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/cancaonova.png",CANÇÃO NOVA FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Cancao_Nova_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="NOVOT" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/NovoTempo.png",NOVO TEMPO FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Novo_Tempo_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="GloboNews.br" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/globo.png",GLOBO PREMIUM FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Globo_Premium_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="REC HD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/recordtv.png",TV RECORD FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TV_Record_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="RecordNews.br" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/recordnews.png",RECORD NEWS SD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Record_News/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="PFCInternacional.br" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/pfc.png",PFC SD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$PFC/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/euronews.png",EURONEWS SD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Euronews/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="RTPAfrica.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/rtpafrica.png",RTP ÁFRICA SD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$RTP_Africa/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="TVA" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/TVA.png",TVA FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TVA_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="TPAi.ao" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/tpa.png",TPA INTERNACIONAL SD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TPA_INTERNACIONAL/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="TCVInternacional.cv" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/tcv.png",TCV INTERNACIONAL SD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TCV_Internacional/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="BloombergTVEurope.uk" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/bloomberg.png",BLOOMBERG
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Bloomberg/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="CNBCEurope.uk" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/cnbceurope.png",CNBC EUROPE FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$CNBC_Europe_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="SkyNewsInternational.uk" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/skynews.png",SKY NEWS SD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Sky_News/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="ENGLISH" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/EnglishClubTV.png",ENGLISH CLUB TV FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$English_Club_TV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="NGHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/BBCEntertainment.png",BBC ENTERTAINMENT SD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$BBC_Entertainment/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="France24English.fr" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/france24.png",FRANCE 24 INTERNACIONAL FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$France_24_I/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="i24NEWSFrench.il" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/I24News.png",i24 NEWS INTERNACIONAL FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$i24_News_I_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="NHKWorldJapan.jp" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/NHKWorldJapan.png",NHK FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$NHK_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="CGTNDocumentary.cn" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/CGTN.png",CGTN FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$CGTN_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="ARIRANG" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/ArirangTV.png",ARIRANG TV FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$ArirangTV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="EURNIHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/euronews.png",EURONEWS ING FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Euronews_ing_hd/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="ALJAZHD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/AlJazeera.png",ALJAZEERA FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$AlJazeera_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="TRTWorld.tr" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/TRTWorld.png",TRT WORLD FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TRT_World_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="GaliciaTVEuropa.es" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/tvgalicia.png",TV GALICIA FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TV_Galicia_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="Telesur.ve" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/telesurhd.png",TELESUR FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Telesur_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="CubavisionInternacional.cu" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/Cubavision.png",CUBAVISION SD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Cubavision/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="TV5HD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/tv5mondeeurope.png",TV5 MONDE FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TV5_Monde_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="BFMTV.fr" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/BFMTV.png",BFM TV SD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$BFM_TV/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="BFMBusiness.fr" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/BFMBusiness.png",BFM BUSINESS SD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$BFM_Business/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="i24NEWSFrench.il" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/I24News.png",i24 NEWS FRANCE SD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$i24_News_F/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="France24French.fr" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/france24.png",FRANCE 24 FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$France_24_F/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="arte.fr" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/ArteFrance.png",ARTE FRANCE FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$ARTE_F_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/euronews.png",EURONEWS A SD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Euronews_a/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)
-
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="BVN.nl" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/BVN.png",BVN SD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$BVN/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="PROTVInternational.ro" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/ProTVIn.png",PRO TV INTERNACIONAL SD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$PRO_TV_Internacional/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="BNT4.bg" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/BNT4.png",BNT 4 SD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$BNT_SAT/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="KBSWorld.kr" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/KBSWorld.png",KBS WORLD FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$KBS_World/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="CCTV4HD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/CCTV4.png",CCTV 4 FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$CCTV_4_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="PhoenixCNEChannel.hk" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/PhoenixHK.png",PHOENIX CNE FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$PHOENIX_CNE_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="FREEDOM" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/FreeDom.png",FREEDOM SD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Freedom/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="1E1INT" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/1%2B1Ukraina.png",1+1 FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Ukraine_1_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="1E1UNEW" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/1%2B1Marafon.png",1+1 MARAFON FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Ukraine_2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="KVARTV" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/KvartalTV.png",KVARTAL TV FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$NLO_TV_2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="StarCinema.ua"" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/StarCinema.png",STAR CINEMA UA FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Star_Cinema_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="StarFamily.ru" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/StarFamily.png",STAR FAMILY UA FHD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Star_Family_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)
-
-
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="Rai1.it" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/Rai1.png",RAI 1 SD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_1/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="Rai2.it" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/Rai2.png",RAI 2 SD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_2/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="Rai3.it" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/Rai3.png",RAI 3 SD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_3/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="RaiScuola.it" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/RaiScuola.png", RAI Scuola SD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_Scuola/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="RaiStoria.it" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/RaiStoria.png", RAI Storia SD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_Storia/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="RaiNews24.it" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/RaiNew.png", RAI News 24 SD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24RAI_News/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)
-
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="ZeeTVUK.uk" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/ZeeTV.png",ZEE TV SD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$ZEE_TV/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="ZeeCinemaUK.uk" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/ZeeCinema.png",ZEE CINEMA SD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$ZEE_CINEMA/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="SonyEntertainmentTelevisionAsia.in" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/SonyEntertainmentTelevision.png",SONY ENTERTAINMENT TELEVISION IN SD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SET_ASIA/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)
-#EXTINF:-1 group-title="✨MEO✨" tvg-id="SonyMax.uk" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/SonyMAX.png",SONY MAX IN SD
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SET_MAX/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(2100000)
+#EXTINF:-1 group-title="✨MEO✨ - 🙏RELIGIÃO🙏" tvg-id="SPlus.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/tvverade.png",TV VERDADE FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TV_Verdade_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🙏RELIGIÃO🙏" tvg-id="UNIFE" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/unife.png",UNIFE TV FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$UnifeTV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🙏RELIGIÃO🙏" tvg-id="TVCancaoNova.pt" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/cancaonova.png",CANÇÃO NOVA FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Cancao_Nova_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🙏RELIGIÃO🙏" tvg-id="NOVOT" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/NovoTempo.png",NOVO TEMPO FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Novo_Tempo_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
+#EXTINF:-1 group-title="✨MEO✨ - 🙏RELIGIÃO🙏" tvg-id="REC HD" tvg-logo="https://raw.githubusercontent.com/2812454/TV/main/LOGOS/recordtv.png",TV RECORD FHD
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$TV_Record_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Livel(5242880)/Segment(17192225699263300).ts
